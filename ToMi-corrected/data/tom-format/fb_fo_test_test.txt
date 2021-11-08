@@ -1,0 +1,3624 @@
+1 Jacob entered the porch.
+2 Lucas is in the porch.
+3 Hunter entered the office.
+4 The eggplant is in the red_suitcase.
+5 Lucas exited the porch.
+6 Lucas entered the office.
+7 Jacob moved the eggplant to the green_bottle.
+8 Where will Lucas look for the eggplant?	red_suitcase	1
+1 Sophia entered the office.
+2 James entered the office.
+3 James loves the peach
+4 Sophia loves the peach
+5 The pear is in the red_pantry.
+6 Sophia exited the office.
+7 James moved the pear to the red_envelope.
+8 Where will Sophia look for the pear?	red_pantry	1
+1 Charlotte entered the living_room.
+2 Oliver entered the living_room.
+3 Hannah entered the living_room.
+4 Hannah exited the living_room.
+5 The persimmon is in the green_suitcase.
+6 Charlotte exited the living_room.
+7 Oliver moved the persimmon to the red_box.
+8 Where will Charlotte look for the persimmon?	green_suitcase	1
+1 Emma entered the bedroom.
+2 Logan entered the bedroom.
+3 Noah dislikes the peas
+4 The radish is in the blue_pantry.
+5 Emma exited the bedroom.
+6 Logan moved the radish to the red_pantry.
+7 Logan loves the tangerine
+8 Where will Emma look for the radish?	blue_pantry	1
+1 Carter entered the front_yard.
+2 Sophia is in the front_yard.
+3 The peas is in the red_basket.
+4 Sophia exited the front_yard.
+5 Carter moved the peas to the green_treasure_chest.
+6 Carter exited the front_yard.
+7 Sophia entered the staircase.
+8 Aiden entered the front_yard.
+9 Where will Sophia look for the peas?	red_basket	1
+1 Lily loves the plum
+2 Isabella entered the attic.
+3 Lily entered the attic.
+4 The pumpkin is in the blue_suitcase.
+5 Isabella exited the attic.
+6 Liam entered the attic.
+7 Lily moved the pumpkin to the red_cupboard.
+8 Lily hates the banana
+9 Where will Isabella look for the pumpkin?	blue_suitcase	1
+1 Amelia entered the bedroom.
+2 Jack dislikes the sweet_potato
+3 Amelia exited the bedroom.
+4 Avery dislikes the spinach
+5 Jack entered the bedroom.
+6 Avery entered the bedroom.
+7 The banana is in the blue_box.
+8 Jack exited the bedroom.
+9 Avery moved the banana to the red_basket.
+10 Where will Jack look for the banana?	blue_box	1
+1 Ava entered the garden.
+2 Mason entered the garden.
+3 The lemon is in the green_bottle.
+4 Mason exited the garden.
+5 Ava moved the lemon to the green_cupboard.
+6 Where will Mason look for the lemon?	green_bottle	1
+1 Ethan entered the kitchen.
+2 Isabella entered the kitchen.
+3 The plum is in the blue_bucket.
+4 Isabella exited the kitchen.
+5 Ethan moved the plum to the blue_crate.
+6 Where will Isabella look for the plum?	blue_bucket	1
+1 Mason entered the living_room.
+2 Emma entered the living_room.
+3 The pear is in the red_basket.
+4 Mason exited the living_room.
+5 Emma moved the pear to the blue_crate.
+6 Where will Mason look for the pear?	red_basket	1
+1 Olivia entered the playroom.
+2 Chloe entered the pantry.
+3 Isla entered the pantry.
+4 The pumpkin is in the red_bottle.
+5 Isla exited the pantry.
+6 Olivia exited the playroom.
+7 Chloe moved the pumpkin to the red_bucket.
+8 Isla entered the playroom.
+9 Isla loves the peach
+10 Where will Isla look for the pumpkin?	red_bottle	1
+1 Hannah entered the bathroom.
+2 Liam entered the bathroom.
+3 The plum is in the red_basket.
+4 Hannah exited the bathroom.
+5 Liam moved the plum to the green_basket.
+6 Sophia entered the staircase.
+7 Where will Hannah look for the plum?	red_basket	1
+1 Mason entered the patio.
+2 Lily entered the patio.
+3 The cabbage is in the green_drawer.
+4 Mason exited the patio.
+5 Lily moved the cabbage to the red_basket.
+6 Lily exited the patio.
+7 Mason entered the bathroom.
+8 Where will Mason look for the cabbage?	green_drawer	1
+1 Emily entered the lounge.
+2 Olivia entered the lounge.
+3 The tomato is in the red_treasure_chest.
+4 Ella entered the lounge.
+5 Olivia exited the lounge.
+6 Emily moved the tomato to the green_suitcase.
+7 Ella dislikes the pear
+8 Where will Olivia look for the tomato?	red_treasure_chest	1
+1 Oliver entered the sunroom.
+2 Mason entered the sunroom.
+3 The green_pepper is in the red_bathtub.
+4 Oliver exited the sunroom.
+5 Oliver entered the study.
+6 Oliver hates the tangerine
+7 Aria hates the spinach
+8 Mason moved the green_pepper to the green_bottle.
+9 Where will Oliver look for the green_pepper?	red_bathtub	1
+1 Aiden entered the patio.
+2 Oliver entered the patio.
+3 Abigail loves the pumpkin
+4 The potato is in the blue_envelope.
+5 Aiden exited the patio.
+6 Abigail entered the patio.
+7 Oliver moved the potato to the blue_bucket.
+8 Where will Aiden look for the potato?	blue_envelope	1
+1 Mason entered the workshop.
+2 Emily entered the workshop.
+3 The beans is in the blue_container.
+4 Emily exited the workshop.
+5 Emily hates the pear
+6 Carter entered the garden.
+7 Emily entered the garden.
+8 Mason moved the beans to the green_bathtub.
+9 Where will Emily look for the beans?	blue_container	1
+1 Charlotte entered the front_yard.
+2 Avery entered the front_yard.
+3 The tomato is in the blue_bucket.
+4 Charlotte exited the front_yard.
+5 Charlotte entered the staircase.
+6 Avery moved the tomato to the red_container.
+7 Where will Charlotte look for the tomato?	blue_bucket	1
+1 Elizabeth entered the pantry.
+2 Hannah hates the turnip
+3 Hannah entered the pantry.
+4 The watermelon is in the blue_cupboard.
+5 Elizabeth exited the pantry.
+6 Hannah moved the watermelon to the blue_crate.
+7 Elizabeth loves the strawberry
+8 Where will Elizabeth look for the watermelon?	blue_cupboard	1
+1 Emily dislikes the cucumber
+2 Aria entered the lounge.
+3 Emily entered the lounge.
+4 The green_pepper is in the green_drawer.
+5 Emily exited the lounge.
+6 Aria moved the green_pepper to the red_treasure_chest.
+7 Ava entered the playroom.
+8 Aria dislikes the tangerine
+9 Emily entered the playroom.
+10 Where will Emily look for the green_pepper?	green_drawer	1
+1 Emily entered the porch.
+2 Liam entered the porch.
+3 The watermelon is in the green_bathtub.
+4 Emily exited the porch.
+5 Liam dislikes the orange
+6 Abigail entered the porch.
+7 Liam loves the persimmon
+8 Liam moved the watermelon to the blue_treasure_chest.
+9 Where will Emily look for the watermelon?	green_bathtub	1
+1 Owen entered the sunroom.
+2 Lily entered the pantry.
+3 Lily hates the grapes
+4 Ella entered the pantry.
+5 The melon is in the blue_bucket.
+6 Ella exited the pantry.
+7 Lily moved the melon to the blue_drawer.
+8 Where will Ella look for the melon?	blue_bucket	1
+1 Ava dislikes the corn
+2 Lucas hates the potato
+3 Lucas entered the staircase.
+4 Ethan entered the staircase.
+5 The beans is in the green_envelope.
+6 Lucas exited the staircase.
+7 Lucas entered the living_room.
+8 Ethan moved the beans to the green_box.
+9 Where will Lucas look for the beans?	green_envelope	1
+1 Isla hates the lime
+2 Chloe entered the front_yard.
+3 Isla likes the green_pepper
+4 Isla entered the sunroom.
+5 Aria entered the sunroom.
+6 The celery is in the green_envelope.
+7 Isla exited the sunroom.
+8 Aria moved the celery to the green_drawer.
+9 Where will Isla look for the celery?	green_envelope	1
+1 Sophia entered the pantry.
+2 James entered the pantry.
+3 The orange is in the blue_suitcase.
+4 James exited the pantry.
+5 Sophia moved the orange to the red_envelope.
+6 Jack entered the pantry.
+7 Where will James look for the orange?	blue_suitcase	1
+1 Jackson entered the porch.
+2 Aiden entered the cellar.
+3 Carter entered the cellar.
+4 The melon is in the red_pantry.
+5 Aiden exited the cellar.
+6 Carter moved the melon to the red_treasure_chest.
+7 Where will Aiden look for the melon?	red_pantry	1
+1 Logan entered the back_yard.
+2 Owen entered the back_yard.
+3 The lettuce is in the red_container.
+4 Logan exited the back_yard.
+5 Jayden entered the living_room.
+6 Jayden exited the living_room.
+7 Owen loves the plum
+8 Owen moved the lettuce to the blue_box.
+9 Where will Logan look for the lettuce?	red_container	1
+1 Avery entered the living_room.
+2 Aria entered the living_room.
+3 The persimmon is in the green_bathtub.
+4 Sophia loves the pear
+5 Aria dislikes the peas
+6 Avery exited the living_room.
+7 Aria moved the persimmon to the red_bucket.
+8 Where will Avery look for the persimmon?	green_bathtub	1
+1 Oliver entered the basement.
+2 Abigail entered the basement.
+3 Olivia entered the basement.
+4 The pineapple is in the red_cupboard.
+5 Oliver exited the basement.
+6 Abigail dislikes the corn
+7 Olivia moved the pineapple to the red_box.
+8 Where will Oliver look for the pineapple?	red_cupboard	1
+1 Evelyn entered the garden.
+2 Oliver entered the garden.
+3 Owen loves the lettuce
+4 Owen entered the garden.
+5 The beans is in the blue_pantry.
+6 Oliver hates the pineapple
+7 Oliver exited the garden.
+8 Evelyn moved the beans to the blue_cupboard.
+9 Where will Oliver look for the beans?	blue_pantry	1
+1 William entered the bathroom.
+2 Aiden entered the bathroom.
+3 The spinach is in the blue_basket.
+4 Chloe loves the cucumber
+5 Aiden exited the bathroom.
+6 William moved the spinach to the blue_treasure_chest.
+7 Where will Aiden look for the spinach?	blue_basket	1
+1 Logan entered the closet.
+2 Hannah entered the closet.
+3 The lettuce is in the red_container.
+4 Hannah loves the turnip
+5 Logan exited the closet.
+6 Hannah moved the lettuce to the red_envelope.
+7 Where will Logan look for the lettuce?	red_container	1
+1 Aria entered the patio.
+2 Ethan entered the office.
+3 Isabella entered the patio.
+4 The cabbage is in the blue_suitcase.
+5 Aria exited the patio.
+6 Ethan exited the office.
+7 Aria entered the office.
+8 Isabella moved the cabbage to the blue_box.
+9 Where will Aria look for the cabbage?	blue_suitcase	1
+1 Owen entered the back_yard.
+2 Emma dislikes the lemon
+3 Emma is in the back_yard.
+4 The sweet_potato is in the red_box.
+5 Emma exited the back_yard.
+6 Emma likes the green_pepper
+7 Owen moved the sweet_potato to the green_box.
+8 Owen exited the back_yard.
+9 Emma entered the kitchen.
+10 Where will Emma look for the sweet_potato?	red_box	1
+1 Logan likes the pumpkin
+2 Logan entered the hallway.
+3 Liam entered the hallway.
+4 Liam loves the celery
+5 Oliver entered the hallway.
+6 The carrot is in the blue_bucket.
+7 Oliver exited the hallway.
+8 Logan moved the carrot to the blue_crate.
+9 Where will Oliver look for the carrot?	blue_bucket	1
+1 Mila entered the garage.
+2 Olivia entered the garage.
+3 The grapefruit is in the green_suitcase.
+4 Mila exited the garage.
+5 Olivia moved the grapefruit to the red_container.
+6 Emma entered the garage.
+7 Where will Mila look for the grapefruit?	green_suitcase	1
+1 Nathan likes the pumpkin
+2 Nathan entered the living_room.
+3 Ava entered the living_room.
+4 The sweet_potato is in the green_cupboard.
+5 Ava dislikes the asparagus
+6 Ava exited the living_room.
+7 Nathan moved the sweet_potato to the blue_basket.
+8 Where will Ava look for the sweet_potato?	green_cupboard	1
+1 Jack entered the office.
+2 Jackson entered the office.
+3 The cabbage is in the red_bottle.
+4 Lily entered the TV_room.
+5 Jackson exited the office.
+6 Jack moved the cabbage to the red_box.
+7 Lily loves the banana
+8 Where will Jackson look for the cabbage?	red_bottle	1
+1 Evelyn entered the garage.
+2 Emma entered the garage.
+3 The asparagus is in the green_pantry.
+4 Emma exited the garage.
+5 Evelyn moved the asparagus to the blue_treasure_chest.
+6 Where will Emma look for the asparagus?	green_pantry	1
+1 Ethan entered the TV_room.
+2 Isla entered the TV_room.
+3 The beans is in the red_envelope.
+4 Isla exited the TV_room.
+5 Oliver likes the peach
+6 Ethan moved the beans to the green_drawer.
+7 Isla dislikes the tomato
+8 Where will Isla look for the beans?	red_envelope	1
+1 Mila entered the patio.
+2 Ethan entered the patio.
+3 The strawberry is in the green_pantry.
+4 Ethan exited the patio.
+5 Mila moved the strawberry to the green_bucket.
+6 Mila exited the patio.
+7 Ethan entered the cellar.
+8 Where will Ethan look for the strawberry?	green_pantry	1
+1 Evelyn entered the cellar.
+2 Ava entered the cellar.
+3 The broccoli is in the blue_pantry.
+4 Amelia entered the workshop.
+5 Evelyn exited the cellar.
+6 Amelia exited the workshop.
+7 Ava moved the broccoli to the green_bottle.
+8 Where will Evelyn look for the broccoli?	blue_pantry	1
+1 Jackson entered the garden.
+2 Amelia entered the garden.
+3 The onion is in the red_cupboard.
+4 Amelia exited the garden.
+5 Jackson moved the onion to the blue_box.
+6 Amelia entered the basement.
+7 Where will Amelia look for the onion?	red_cupboard	1
+1 Charlotte loves the radish
+2 William entered the attic.
+3 Lucas hates the cucumber
+4 Lucas entered the attic.
+5 The banana is in the blue_basket.
+6 William exited the attic.
+7 Lucas moved the banana to the blue_container.
+8 Where will William look for the banana?	blue_basket	1
+1 Nathan entered the bathroom.
+2 Hannah entered the bathroom.
+3 The green_pepper is in the red_basket.
+4 Nathan exited the bathroom.
+5 Nathan entered the closet.
+6 Hannah moved the green_pepper to the green_treasure_chest.
+7 Where will Nathan look for the green_pepper?	red_basket	1
+1 Benjamin entered the pantry.
+2 Oliver entered the pantry.
+3 Benjamin hates the broccoli
+4 The radish is in the green_container.
+5 Benjamin exited the pantry.
+6 Oliver moved the radish to the blue_envelope.
+7 Oliver exited the pantry.
+8 Benjamin entered the back_yard.
+9 Where will Benjamin look for the radish?	green_container	1
+1 Ella likes the lime
+2 Hunter entered the laundry.
+3 Ella entered the laundry.
+4 The cucumber is in the red_crate.
+5 Ella exited the laundry.
+6 Ella entered the cellar.
+7 Hunter moved the cucumber to the red_treasure_chest.
+8 Where will Ella look for the cucumber?	red_crate	1
+1 Evelyn entered the TV_room.
+2 Jack entered the TV_room.
+3 Evelyn loves the apple
+4 The plum is in the green_container.
+5 Evelyn exited the TV_room.
+6 Jack moved the plum to the blue_box.
+7 Evelyn dislikes the plum
+8 Avery entered the sunroom.
+9 Where will Evelyn look for the plum?	green_container	1
+1 Jacob entered the hall.
+2 Jackson entered the hall.
+3 The lemon is in the red_box.
+4 Jackson exited the hall.
+5 Jackson entered the patio.
+6 Jacob moved the lemon to the blue_treasure_chest.
+7 Where will Jackson look for the lemon?	red_box	1
+1 Hunter likes the peas
+2 Mila entered the playroom.
+3 Hunter entered the playroom.
+4 Avery is in the playroom.
+5 The radish is in the green_bottle.
+6 Hunter exited the playroom.
+7 Hunter entered the porch.
+8 Avery moved the radish to the red_crate.
+9 Where will Hunter look for the radish?	green_bottle	1
+1 Aiden entered the crawlspace.
+2 Owen entered the crawlspace.
+3 The turnip is in the blue_bottle.
+4 Aiden exited the crawlspace.
+5 Owen moved the turnip to the blue_basket.
+6 Where will Aiden look for the turnip?	blue_bottle	1
+1 Jackson entered the study.
+2 Hannah entered the study.
+3 James entered the attic.
+4 The orange is in the blue_bottle.
+5 Jackson exited the study.
+6 Hannah moved the orange to the green_bucket.
+7 Where will Jackson look for the orange?	blue_bottle	1
+1 Hannah entered the garden.
+2 Jayden entered the garden.
+3 Jayden dislikes the tomato
+4 Owen entered the crawlspace.
+5 The pumpkin is in the blue_bottle.
+6 Jayden exited the garden.
+7 Hannah moved the pumpkin to the green_bucket.
+8 Where will Jayden look for the pumpkin?	blue_bottle	1
+1 Emma entered the workshop.
+2 Jack loves the carrot
+3 Jack entered the workshop.
+4 Abigail loves the peach
+5 The turnip is in the blue_pantry.
+6 Emma exited the workshop.
+7 Jack moved the turnip to the red_suitcase.
+8 Emma entered the basement.
+9 Where will Emma look for the turnip?	blue_pantry	1
+1 Isabella entered the dining_room.
+2 Isabella dislikes the onion
+3 Jacob entered the dining_room.
+4 The potato is in the red_box.
+5 Jacob exited the dining_room.
+6 Jacob entered the patio.
+7 Isabella moved the potato to the blue_pantry.
+8 Where will Jacob look for the potato?	red_box	1
+1 James entered the laundry.
+2 Amelia entered the laundry.
+3 Amelia loves the eggplant
+4 The green_pepper is in the green_box.
+5 Amelia exited the laundry.
+6 James moved the green_pepper to the red_treasure_chest.
+7 Where will Amelia look for the green_pepper?	green_box	1
+1 Benjamin entered the kitchen.
+2 Noah entered the kitchen.
+3 The pineapple is in the red_container.
+4 Noah exited the kitchen.
+5 Noah entered the den.
+6 Benjamin moved the pineapple to the green_bucket.
+7 Where will Noah look for the pineapple?	red_container	1
+1 Lucas entered the workshop.
+2 Oliver entered the workshop.
+3 The peas is in the blue_treasure_chest.
+4 Lucas exited the workshop.
+5 Oliver hates the onion
+6 Oliver moved the peas to the red_container.
+7 Where will Lucas look for the peas?	blue_treasure_chest	1
+1 Jacob entered the hall.
+2 Isabella entered the crawlspace.
+3 Hannah entered the hall.
+4 Isabella exited the crawlspace.
+5 Isabella likes the spinach
+6 The plum is in the green_crate.
+7 Hannah exited the hall.
+8 Isabella dislikes the apple
+9 Jacob moved the plum to the green_cupboard.
+10 Hannah entered the crawlspace.
+11 Where will Hannah look for the plum?	green_crate	1
+1 Carter entered the basement.
+2 Mia loves the beans
+3 Mia entered the basement.
+4 Ethan hates the plum
+5 Ethan entered the basement.
+6 The corn is in the red_bottle.
+7 Mia exited the basement.
+8 Mia entered the office.
+9 Carter exited the basement.
+10 Ethan moved the corn to the green_bucket.
+11 Where will Mia look for the corn?	red_bottle	1
+1 Jayden entered the study.
+2 Lily entered the study.
+3 The banana is in the green_bucket.
+4 Lily exited the study.
+5 Jayden moved the banana to the red_drawer.
+6 Where will Lily look for the banana?	green_bucket	1
+1 Mason entered the garden.
+2 Isla entered the garden.
+3 Mason loves the corn
+4 The peas is in the red_drawer.
+5 Mason exited the garden.
+6 Isla moved the peas to the blue_basket.
+7 Mason hates the melon
+8 Where will Mason look for the peas?	red_drawer	1
+1 Olivia likes the cabbage
+2 Jackson entered the playroom.
+3 Nathan entered the playroom.
+4 The pear is in the green_treasure_chest.
+5 Jackson exited the playroom.
+6 Jackson loves the persimmon
+7 Jackson entered the living_room.
+8 Nathan moved the pear to the blue_envelope.
+9 Where will Jackson look for the pear?	green_treasure_chest	1
+1 Mia entered the study.
+2 Ava entered the study.
+3 Hunter entered the study.
+4 Mia hates the pineapple
+5 The peach is in the green_drawer.
+6 Hunter exited the study.
+7 Hunter entered the crawlspace.
+8 Mia moved the peach to the green_bathtub.
+9 Where will Hunter look for the peach?	green_drawer	1
+1 Isla entered the pantry.
+2 Jacob entered the pantry.
+3 Elizabeth entered the pantry.
+4 The melon is in the green_box.
+5 Elizabeth exited the pantry.
+6 Isla exited the pantry.
+7 Isla entered the bedroom.
+8 Jacob moved the melon to the green_bathtub.
+9 Where will Isla look for the melon?	green_box	1
+1 Avery entered the attic.
+2 Alexander entered the attic.
+3 The pineapple is in the red_box.
+4 Jacob entered the attic.
+5 Avery exited the attic.
+6 Avery dislikes the eggplant
+7 Avery entered the garden.
+8 Jacob hates the pumpkin
+9 Alexander moved the pineapple to the red_crate.
+10 Where will Avery look for the pineapple?	red_box	1
+1 Isabella is in the playroom.
+2 Ella entered the playroom.
+3 Jacob entered the playroom.
+4 The lemon is in the green_bottle.
+5 Ella exited the playroom.
+6 Isabella exited the playroom.
+7 Jacob moved the lemon to the red_basket.
+8 Where will Isabella look for the lemon?	green_bottle	1
+1 Amelia entered the garden.
+2 Aiden entered the garden.
+3 The radish is in the blue_crate.
+4 Amelia exited the garden.
+5 Charlotte entered the TV_room.
+6 Aiden dislikes the lettuce
+7 Amelia entered the TV_room.
+8 Aiden moved the radish to the blue_basket.
+9 Where will Amelia look for the radish?	blue_crate	1
+1 Sophia entered the dining_room.
+2 Ethan entered the dining_room.
+3 The eggplant is in the green_treasure_chest.
+4 Ethan exited the dining_room.
+5 Sophia moved the eggplant to the red_crate.
+6 Avery likes the beans
+7 Where will Ethan look for the eggplant?	green_treasure_chest	1
+1 Hannah entered the basement.
+2 Emma entered the front_yard.
+3 Sophia entered the basement.
+4 The grapefruit is in the red_envelope.
+5 Emma exited the front_yard.
+6 Hannah exited the basement.
+7 Sophia moved the grapefruit to the red_container.
+8 Where will Hannah look for the grapefruit?	red_envelope	1
+1 Ethan likes the broccoli
+2 Abigail entered the front_yard.
+3 Ethan entered the front_yard.
+4 The green_pepper is in the green_drawer.
+5 Ethan exited the front_yard.
+6 Nathan loves the turnip
+7 Abigail moved the green_pepper to the red_pantry.
+8 Where will Ethan look for the green_pepper?	green_drawer	1
+1 Charlotte entered the back_yard.
+2 Noah likes the potato
+3 Mila entered the back_yard.
+4 Noah entered the den.
+5 The plum is in the green_pantry.
+6 Mila exited the back_yard.
+7 Charlotte moved the plum to the red_container.
+8 Where will Mila look for the plum?	green_pantry	1
+1 Carter entered the sunroom.
+2 Evelyn entered the sunroom.
+3 The orange is in the red_pantry.
+4 Carter exited the sunroom.
+5 Chloe loves the celery
+6 Chloe entered the sunroom.
+7 Evelyn moved the orange to the blue_box.
+8 Evelyn loves the strawberry
+9 Where will Carter look for the orange?	red_pantry	1
+1 Evelyn hates the pear
+2 Olivia entered the den.
+3 Evelyn entered the den.
+4 The cherry is in the blue_bathtub.
+5 Evelyn exited the den.
+6 Evelyn entered the office.
+7 Olivia moved the cherry to the green_treasure_chest.
+8 Where will Evelyn look for the cherry?	blue_bathtub	1
+1 William entered the basement.
+2 Ethan entered the basement.
+3 Amelia entered the basement.
+4 William exited the basement.
+5 The radish is in the green_pantry.
+6 Ethan dislikes the plum
+7 Ethan exited the basement.
+8 Amelia moved the radish to the red_treasure_chest.
+9 Where will Ethan look for the radish?	green_pantry	1
+1 Aiden entered the kitchen.
+2 Alexander likes the lettuce
+3 Alexander entered the kitchen.
+4 Hannah entered the study.
+5 The carrot is in the red_container.
+6 Alexander exited the kitchen.
+7 Aiden hates the cucumber
+8 Hannah exited the study.
+9 Aiden moved the carrot to the red_crate.
+10 Alexander entered the study.
+11 Where will Alexander look for the carrot?	red_container	1
+1 Alexander entered the office.
+2 James entered the office.
+3 The peach is in the red_crate.
+4 Alexander exited the office.
+5 James moved the peach to the blue_bathtub.
+6 Where will Alexander look for the peach?	red_crate	1
+1 Jayden is in the closet.
+2 Avery is in the closet.
+3 The sweet_potato is in the green_cupboard.
+4 Jayden exited the closet.
+5 Avery moved the sweet_potato to the blue_treasure_chest.
+6 Where will Jayden look for the sweet_potato?	green_cupboard	1
+1 Logan hates the carrot
+2 Mia entered the workshop.
+3 Logan entered the workshop.
+4 Mia hates the eggplant
+5 The lemon is in the green_suitcase.
+6 Amelia entered the staircase.
+7 Amelia exited the staircase.
+8 Mia exited the workshop.
+9 Logan moved the lemon to the red_box.
+10 Where will Mia look for the lemon?	green_suitcase	1
+1 Ella is in the staircase.
+2 Hannah entered the staircase.
+3 The corn is in the red_container.
+4 Ella hates the cucumber
+5 Ella exited the staircase.
+6 Jackson dislikes the cucumber
+7 Ella entered the bedroom.
+8 Hannah moved the corn to the green_suitcase.
+9 Where will Ella look for the corn?	red_container	1
+1 Logan entered the basement.
+2 Chloe entered the basement.
+3 The celery is in the red_pantry.
+4 Logan exited the basement.
+5 Logan entered the bedroom.
+6 Chloe moved the celery to the blue_bathtub.
+7 Where will Logan look for the celery?	red_pantry	1
+1 Ella entered the office.
+2 Liam entered the office.
+3 The tangerine is in the blue_cupboard.
+4 Liam exited the office.
+5 Emma entered the office.
+6 Emma exited the office.
+7 Ella moved the tangerine to the green_bathtub.
+8 Liam entered the den.
+9 Where will Liam look for the tangerine?	blue_cupboard	1
+1 Aiden entered the crawlspace.
+2 Jackson entered the crawlspace.
+3 The grapefruit is in the blue_treasure_chest.
+4 Aiden exited the crawlspace.
+5 Nathan likes the pineapple
+6 Jackson moved the grapefruit to the blue_pantry.
+7 Where will Aiden look for the grapefruit?	blue_treasure_chest	1
+1 Ethan entered the study.
+2 Oliver entered the study.
+3 Ethan likes the melon
+4 The persimmon is in the green_basket.
+5 Lily entered the bathroom.
+6 Oliver exited the study.
+7 Lily exited the bathroom.
+8 Ethan moved the persimmon to the blue_crate.
+9 Where will Oliver look for the persimmon?	green_basket	1
+1 Isabella entered the attic.
+2 Lily entered the attic.
+3 The asparagus is in the green_bathtub.
+4 Lily hates the peach
+5 Isabella exited the attic.
+6 Isla entered the attic.
+7 Isabella hates the apple
+8 Lily moved the asparagus to the red_crate.
+9 Where will Isabella look for the asparagus?	green_bathtub	1
+1 Amelia entered the study.
+2 Alexander entered the study.
+3 The radish is in the blue_envelope.
+4 Alexander exited the study.
+5 Mia hates the tomato
+6 Alexander loves the spinach
+7 Amelia moved the radish to the red_cupboard.
+8 Amelia exited the study.
+9 Alexander entered the office.
+10 Mia entered the office.
+11 Where will Alexander look for the radish?	blue_envelope	1
+1 Oliver entered the hall.
+2 Aiden entered the hall.
+3 Mia entered the hall.
+4 The turnip is in the green_crate.
+5 Oliver exited the hall.
+6 Mia exited the hall.
+7 Aiden moved the turnip to the blue_suitcase.
+8 Where will Mia look for the turnip?	green_crate	1
+1 Aiden entered the cellar.
+2 Liam entered the cellar.
+3 Liam exited the cellar.
+4 Logan entered the cellar.
+5 The melon is in the red_box.
+6 Logan exited the cellar.
+7 Aiden moved the melon to the green_basket.
+8 Where will Logan look for the melon?	red_box	1
+1 Hunter entered the living_room.
+2 Jack entered the patio.
+3 Evelyn entered the patio.
+4 The cherry is in the green_suitcase.
+5 Jack exited the patio.
+6 Evelyn moved the cherry to the red_cupboard.
+7 Where will Jack look for the cherry?	green_suitcase	1
+1 Noah loves the spinach
+2 Benjamin entered the garden.
+3 Lucas entered the garden.
+4 The persimmon is in the red_container.
+5 Noah entered the garden.
+6 Benjamin exited the garden.
+7 Lucas moved the persimmon to the red_bottle.
+8 Where will Benjamin look for the persimmon?	red_container	1
+1 Hannah entered the attic.
+2 Lucas entered the attic.
+3 Aria entered the attic.
+4 The persimmon is in the red_envelope.
+5 Lucas likes the potato
+6 Lucas exited the attic.
+7 Aria moved the persimmon to the red_drawer.
+8 Where will Lucas look for the persimmon?	red_envelope	1
+1 Logan entered the study.
+2 Elizabeth hates the asparagus
+3 Elizabeth entered the study.
+4 Evelyn entered the study.
+5 Evelyn hates the grapefruit
+6 The corn is in the red_treasure_chest.
+7 Logan exited the study.
+8 Elizabeth moved the corn to the blue_bottle.
+9 Where will Logan look for the corn?	red_treasure_chest	1
+1 Elizabeth entered the sunroom.
+2 Hannah entered the sunroom.
+3 The lettuce is in the green_drawer.
+4 Lucas entered the garage.
+5 Elizabeth exited the sunroom.
+6 Hannah moved the lettuce to the blue_envelope.
+7 Where will Elizabeth look for the lettuce?	green_drawer	1
+1 Chloe entered the porch.
+2 Emily entered the porch.
+3 Mia entered the porch.
+4 Emily likes the orange
+5 The watermelon is in the blue_container.
+6 Mia exited the porch.
+7 Emily exited the porch.
+8 Mia hates the cabbage
+9 Chloe moved the watermelon to the green_bottle.
+10 Where will Emily look for the watermelon?	blue_container	1
+1 Aria entered the closet.
+2 Carter likes the banana
+3 Emily entered the closet.
+4 The melon is in the green_bucket.
+5 Carter hates the pear
+6 Aria exited the closet.
+7 Emily moved the melon to the blue_basket.
+8 Where will Aria look for the melon?	green_bucket	1
+1 Jacob entered the laundry.
+2 Carter entered the laundry.
+3 The cucumber is in the red_treasure_chest.
+4 Jacob exited the laundry.
+5 Jacob hates the broccoli
+6 Carter loves the cucumber
+7 Jacob entered the hall.
+8 Carter moved the cucumber to the green_box.
+9 Where will Jacob look for the cucumber?	red_treasure_chest	1
+1 Isla entered the attic.
+2 Noah is in the attic.
+3 Jacob entered the TV_room.
+4 The beans is in the red_cupboard.
+5 Isla exited the attic.
+6 Isla entered the TV_room.
+7 Noah moved the beans to the red_crate.
+8 Where will Isla look for the beans?	red_cupboard	1
+1 Emma entered the bathroom.
+2 Hannah entered the bathroom.
+3 Lily hates the peach
+4 The apple is in the red_container.
+5 Hannah exited the bathroom.
+6 Emma moved the apple to the green_box.
+7 Lily entered the garage.
+8 Hannah entered the garage.
+9 Where will Hannah look for the apple?	red_container	1
+1 Abigail entered the master_bedroom.
+2 Mila entered the master_bedroom.
+3 Mila exited the master_bedroom.
+4 Lily entered the master_bedroom.
+5 The tomato is in the red_envelope.
+6 Abigail exited the master_bedroom.
+7 Lily moved the tomato to the red_suitcase.
+8 Where will Abigail look for the tomato?	red_envelope	1
+1 Noah dislikes the spinach
+2 Aiden entered the closet.
+3 Noah entered the closet.
+4 Ava entered the hall.
+5 The strawberry is in the blue_container.
+6 Aiden exited the closet.
+7 Ava exited the hall.
+8 Noah moved the strawberry to the green_treasure_chest.
+9 Where will Aiden look for the strawberry?	blue_container	1
+1 Jack entered the garage.
+2 Hunter entered the garage.
+3 The sweet_potato is in the green_basket.
+4 Mia entered the garage.
+5 Jack exited the garage.
+6 Hunter moved the sweet_potato to the blue_container.
+7 Where will Jack look for the sweet_potato?	green_basket	1
+1 Amelia entered the garden.
+2 Sophia entered the garden.
+3 The lettuce is in the blue_bathtub.
+4 Sophia exited the garden.
+5 Amelia moved the lettuce to the red_treasure_chest.
+6 Where will Sophia look for the lettuce?	blue_bathtub	1
+1 Noah entered the master_bedroom.
+2 Aiden entered the master_bedroom.
+3 Noah likes the cucumber
+4 The cherry is in the red_crate.
+5 Jack entered the office.
+6 Noah exited the master_bedroom.
+7 Aiden moved the cherry to the green_drawer.
+8 Where will Noah look for the cherry?	red_crate	1
+1 Chloe entered the hall.
+2 Owen entered the playroom.
+3 Jayden entered the playroom.
+4 The orange is in the blue_box.
+5 Owen exited the playroom.
+6 Jayden moved the orange to the red_crate.
+7 Owen entered the hall.
+8 Where will Owen look for the orange?	blue_box	1
+1 Nathan entered the playroom.
+2 Lucas entered the playroom.
+3 Carter entered the playroom.
+4 Carter hates the pear
+5 Lucas loves the apple
+6 Nathan exited the playroom.
+7 The onion is in the red_bottle.
+8 Lucas exited the playroom.
+9 Carter moved the onion to the blue_bathtub.
+10 Where will Lucas look for the onion?	red_bottle	1
+1 Liam entered the porch.
+2 William entered the porch.
+3 Nathan entered the back_yard.
+4 Liam dislikes the pear
+5 Nathan exited the back_yard.
+6 The apple is in the green_crate.
+7 Liam exited the porch.
+8 William moved the apple to the green_basket.
+9 Where will Liam look for the apple?	green_crate	1
+1 Alexander entered the office.
+2 Alexander exited the office.
+3 Carter entered the office.
+4 Jacob is in the office.
+5 The cucumber is in the blue_bathtub.
+6 Carter exited the office.
+7 Jacob moved the cucumber to the blue_drawer.
+8 Carter loves the lime
+9 Where will Carter look for the cucumber?	blue_bathtub	1
+1 Noah entered the workshop.
+2 Ella entered the workshop.
+3 Nathan entered the basement.
+4 The spinach is in the red_container.
+5 Nathan exited the basement.
+6 Ella exited the workshop.
+7 Noah moved the spinach to the green_basket.
+8 Where will Ella look for the spinach?	red_container	1
+1 Lily entered the dining_room.
+2 Lily hates the spinach
+3 Evelyn dislikes the celery
+4 Evelyn entered the dining_room.
+5 Ella entered the dining_room.
+6 The grapes is in the green_crate.
+7 Lily exited the dining_room.
+8 Lily entered the porch.
+9 Ella moved the grapes to the green_suitcase.
+10 Where will Lily look for the grapes?	green_crate	1
+1 Lily entered the staircase.
+2 Isabella entered the staircase.
+3 Noah entered the staircase.
+4 Noah hates the grapefruit
+5 Noah exited the staircase.
+6 The orange is in the blue_drawer.
+7 Isabella exited the staircase.
+8 Lily moved the orange to the red_bottle.
+9 Isabella entered the garage.
+10 Where will Isabella look for the orange?	blue_drawer	1
+1 Emily entered the staircase.
+2 Ava entered the front_yard.
+3 Mia hates the watermelon
+4 Mia loves the onion
+5 Mia entered the staircase.
+6 Ava exited the front_yard.
+7 The lime is in the blue_bucket.
+8 Mia exited the staircase.
+9 Emily moved the lime to the blue_box.
+10 Where will Mia look for the lime?	blue_bucket	1
+1 Jacob entered the TV_room.
+2 Abigail entered the front_yard.
+3 Isla entered the TV_room.
+4 The cucumber is in the green_bucket.
+5 Isla exited the TV_room.
+6 Jacob moved the cucumber to the green_container.
+7 Isla entered the front_yard.
+8 Isla dislikes the peas
+9 Where will Isla look for the cucumber?	green_bucket	1
+1 Charlotte entered the den.
+2 Avery entered the den.
+3 The broccoli is in the blue_cupboard.
+4 Avery exited the den.
+5 Charlotte moved the broccoli to the green_crate.
+6 Mia entered the den.
+7 Avery entered the sunroom.
+8 Mia hates the lettuce
+9 Where will Avery look for the broccoli?	blue_cupboard	1
+1 Ella entered the back_yard.
+2 Alexander entered the back_yard.
+3 Noah entered the bathroom.
+4 Noah dislikes the asparagus
+5 Ella likes the cucumber
+6 The cucumber is in the red_pantry.
+7 Alexander exited the back_yard.
+8 Ella moved the cucumber to the blue_pantry.
+9 Where will Alexander look for the cucumber?	red_pantry	1
+1 Hannah entered the porch.
+2 Liam entered the porch.
+3 The potato is in the red_envelope.
+4 Liam exited the porch.
+5 Ella likes the tomato
+6 Liam hates the lettuce
+7 Hannah moved the potato to the green_bucket.
+8 Where will Liam look for the potato?	red_envelope	1
+1 Elizabeth entered the bathroom.
+2 Nathan entered the bathroom.
+3 Logan loves the potato
+4 The lime is in the blue_suitcase.
+5 Elizabeth exited the bathroom.
+6 Nathan moved the lime to the green_basket.
+7 Where will Elizabeth look for the lime?	blue_suitcase	1
+1 Carter entered the porch.
+2 Oliver entered the porch.
+3 The carrot is in the red_drawer.
+4 Carter exited the porch.
+5 Oliver moved the carrot to the red_basket.
+6 Carter entered the kitchen.
+7 Where will Carter look for the carrot?	red_drawer	1
+1 Lily likes the lime
+2 William entered the garden.
+3 Jack entered the garden.
+4 Lily entered the garden.
+5 The pineapple is in the green_drawer.
+6 William hates the apple
+7 William exited the garden.
+8 Jack moved the pineapple to the blue_envelope.
+9 Lily exited the garden.
+10 Jack exited the garden.
+11 William entered the dining_room.
+12 Where will William look for the pineapple?	green_drawer	1
+1 Elizabeth entered the study.
+2 Mia entered the study.
+3 Ethan entered the study.
+4 The pear is in the red_pantry.
+5 Ethan exited the study.
+6 Ethan entered the bathroom.
+7 Elizabeth moved the pear to the green_basket.
+8 Where will Ethan look for the pear?	red_pantry	1
+1 Olivia entered the garden.
+2 Olivia dislikes the asparagus
+3 Hunter entered the garden.
+4 Jackson dislikes the grapefruit
+5 The tangerine is in the blue_pantry.
+6 Olivia exited the garden.
+7 Hunter moved the tangerine to the green_cupboard.
+8 Jackson entered the patio.
+9 Where will Olivia look for the tangerine?	blue_pantry	1
+1 Jack entered the dining_room.
+2 Hannah entered the dining_room.
+3 The tangerine is in the green_container.
+4 Jack exited the dining_room.
+5 Hannah moved the tangerine to the blue_drawer.
+6 Where will Jack look for the tangerine?	green_container	1
+1 James entered the front_yard.
+2 Ella entered the back_yard.
+3 Sophia entered the back_yard.
+4 James exited the front_yard.
+5 The apple is in the blue_cupboard.
+6 Ella hates the banana
+7 Sophia exited the back_yard.
+8 Ella moved the apple to the blue_bathtub.
+9 Sophia entered the front_yard.
+10 Where will Sophia look for the apple?	blue_cupboard	1
+1 Benjamin entered the porch.
+2 Sophia entered the porch.
+3 Sophia loves the persimmon
+4 The orange is in the red_basket.
+5 Sophia exited the porch.
+6 Benjamin moved the orange to the red_cupboard.
+7 Where will Sophia look for the orange?	red_basket	1
+1 Mila entered the porch.
+2 Jacob is in the porch.
+3 The grapefruit is in the blue_crate.
+4 Jacob exited the porch.
+5 Sophia entered the porch.
+6 Jacob entered the study.
+7 Mila moved the grapefruit to the red_suitcase.
+8 Where will Jacob look for the grapefruit?	blue_crate	1
+1 Ella hates the onion
+2 Lucas entered the workshop.
+3 Mason entered the workshop.
+4 The tomato is in the blue_bathtub.
+5 Mason exited the workshop.
+6 Lucas moved the tomato to the blue_box.
+7 Lucas hates the watermelon
+8 Where will Mason look for the tomato?	blue_bathtub	1
+1 William entered the staircase.
+2 Jacob entered the staircase.
+3 The watermelon is in the red_bucket.
+4 Jacob exited the staircase.
+5 Jacob entered the hallway.
+6 Jayden hates the celery
+7 Jayden likes the cherry
+8 William moved the watermelon to the red_bottle.
+9 Where will Jacob look for the watermelon?	red_bucket	1
+1 Avery entered the patio.
+2 William hates the cabbage
+3 William entered the patio.
+4 William loves the asparagus
+5 The persimmon is in the green_suitcase.
+6 William exited the patio.
+7 Aria entered the patio.
+8 Avery moved the persimmon to the red_treasure_chest.
+9 Where will William look for the persimmon?	green_suitcase	1
+1 James hates the strawberry
+2 James entered the pantry.
+3 Liam entered the pantry.
+4 The lettuce is in the green_bottle.
+5 James exited the pantry.
+6 Liam moved the lettuce to the green_pantry.
+7 Liam exited the pantry.
+8 James entered the living_room.
+9 Where will James look for the lettuce?	green_bottle	1
+1 Nathan entered the kitchen.
+2 Carter hates the apple
+3 Mila entered the kitchen.
+4 The peas is in the green_treasure_chest.
+5 Nathan exited the kitchen.
+6 Mila moved the peas to the green_bathtub.
+7 Mila hates the tangerine
+8 Where will Nathan look for the peas?	green_treasure_chest	1
+1 Emma likes the apple
+2 Alexander entered the hallway.
+3 Emma entered the hallway.
+4 The cucumber is in the blue_bottle.
+5 Alexander exited the hallway.
+6 Lily entered the hallway.
+7 Alexander entered the workshop.
+8 Lily exited the hallway.
+9 Emma moved the cucumber to the blue_box.
+10 Where will Alexander look for the cucumber?	blue_bottle	1
+1 Isabella entered the workshop.
+2 Mason loves the radish
+3 Mason entered the workshop.
+4 Ella entered the workshop.
+5 The peas is in the blue_cupboard.
+6 Ella exited the workshop.
+7 Isabella exited the workshop.
+8 Mason moved the peas to the red_basket.
+9 Where will Isabella look for the peas?	blue_cupboard	1
+1 Charlotte entered the dining_room.
+2 Jacob entered the dining_room.
+3 The orange is in the red_basket.
+4 Mason dislikes the celery
+5 Jacob exited the dining_room.
+6 Jacob hates the beans
+7 Mason entered the dining_room.
+8 Charlotte moved the orange to the green_bathtub.
+9 Where will Jacob look for the orange?	red_basket	1
+1 Aiden entered the basement.
+2 Nathan hates the tangerine
+3 Nathan entered the basement.
+4 The melon is in the green_box.
+5 Aiden exited the basement.
+6 Nathan hates the sweet_potato
+7 Aiden entered the bathroom.
+8 Nathan moved the melon to the red_drawer.
+9 Where will Aiden look for the melon?	green_box	1
+1 Jayden entered the sunroom.
+2 Nathan entered the sunroom.
+3 Aiden entered the sunroom.
+4 The asparagus is in the blue_bathtub.
+5 Aiden exited the sunroom.
+6 Nathan moved the asparagus to the green_treasure_chest.
+7 Nathan exited the sunroom.
+8 Aiden entered the garage.
+9 Where will Aiden look for the asparagus?	blue_bathtub	1
+1 James entered the lounge.
+2 Mila entered the lounge.
+3 The banana is in the blue_drawer.
+4 Mila exited the lounge.
+5 James moved the banana to the green_container.
+6 Mila entered the TV_room.
+7 Jackson dislikes the apple
+8 Jackson entered the TV_room.
+9 Where will Mila look for the banana?	blue_drawer	1
+1 Oliver entered the closet.
+2 Mia entered the closet.
+3 The melon is in the blue_box.
+4 Jackson entered the staircase.
+5 Oliver exited the closet.
+6 Mia moved the melon to the green_bottle.
+7 Where will Oliver look for the melon?	blue_box	1
+1 Evelyn entered the laundry.
+2 Alexander entered the laundry.
+3 Aiden entered the dining_room.
+4 The lettuce is in the green_treasure_chest.
+5 Aiden loves the beans
+6 Evelyn exited the laundry.
+7 Alexander moved the lettuce to the green_basket.
+8 Alexander exited the laundry.
+9 Evelyn entered the dining_room.
+10 Where will Evelyn look for the lettuce?	green_treasure_chest	1
+1 Chloe dislikes the asparagus
+2 Hannah entered the master_bedroom.
+3 Ella entered the master_bedroom.
+4 Chloe entered the master_bedroom.
+5 The melon is in the blue_pantry.
+6 Chloe exited the master_bedroom.
+7 Hannah exited the master_bedroom.
+8 Hannah entered the TV_room.
+9 Ella moved the melon to the blue_cupboard.
+10 Where will Hannah look for the melon?	blue_pantry	1
+1 Hannah entered the front_yard.
+2 Lily entered the front_yard.
+3 The potato is in the green_pantry.
+4 Hannah exited the front_yard.
+5 Hannah entered the workshop.
+6 Lily moved the potato to the blue_pantry.
+7 Where will Hannah look for the potato?	green_pantry	1
+1 Mason entered the attic.
+2 Jayden entered the attic.
+3 The cherry is in the green_envelope.
+4 Lucas entered the attic.
+5 Lucas exited the attic.
+6 Jayden exited the attic.
+7 Mason moved the cherry to the red_bottle.
+8 Where will Jayden look for the cherry?	green_envelope	1
+1 Emily entered the cellar.
+2 Emily hates the apple
+3 Hannah loves the grapes
+4 Elizabeth entered the cellar.
+5 The watermelon is in the blue_drawer.
+6 Emily exited the cellar.
+7 Emily entered the garage.
+8 Elizabeth moved the watermelon to the blue_basket.
+9 Where will Emily look for the watermelon?	blue_drawer	1
+1 Aiden entered the back_yard.
+2 Isabella likes the cherry
+3 Isabella entered the back_yard.
+4 Abigail entered the playroom.
+5 The lime is in the blue_suitcase.
+6 Isabella exited the back_yard.
+7 Aiden moved the lime to the red_bottle.
+8 Isabella entered the playroom.
+9 Where will Isabella look for the lime?	blue_suitcase	1
+1 Olivia entered the hallway.
+2 Noah entered the hallway.
+3 James entered the hallway.
+4 James exited the hallway.
+5 The potato is in the green_pantry.
+6 Olivia hates the strawberry
+7 Olivia exited the hallway.
+8 Olivia dislikes the beans
+9 Olivia entered the pantry.
+10 Noah moved the potato to the blue_suitcase.
+11 Where will Olivia look for the potato?	green_pantry	1
+1 Charlotte entered the closet.
+2 Jackson entered the garden.
+3 Jack loves the plum
+4 Jack entered the garden.
+5 The eggplant is in the green_bathtub.
+6 Jackson exited the garden.
+7 Charlotte likes the plum
+8 Jack moved the eggplant to the green_drawer.
+9 Where will Jackson look for the eggplant?	green_bathtub	1
+1 James entered the workshop.
+2 Abigail entered the workshop.
+3 Lucas entered the workshop.
+4 The banana is in the red_crate.
+5 Abigail exited the workshop.
+6 James exited the workshop.
+7 Lucas moved the banana to the green_drawer.
+8 Lucas exited the workshop.
+9 Abigail entered the pantry.
+10 Where will Abigail look for the banana?	red_crate	1
+1 Aiden loves the peas
+2 Aiden entered the closet.
+3 Ava entered the study.
+4 Aiden dislikes the grapes
+5 Avery entered the study.
+6 The corn is in the green_container.
+7 Ava exited the study.
+8 Aiden exited the closet.
+9 Avery moved the corn to the green_pantry.
+10 Where will Ava look for the corn?	green_container	1
+1 Jack entered the laundry.
+2 Lucas entered the laundry.
+3 Evelyn entered the laundry.
+4 The watermelon is in the blue_suitcase.
+5 Jack exited the laundry.
+6 Lucas moved the watermelon to the red_pantry.
+7 Where will Jack look for the watermelon?	blue_suitcase	1
+1 Chloe entered the garage.
+2 Lucas entered the garage.
+3 Chloe likes the asparagus
+4 The peas is in the red_drawer.
+5 Chloe exited the garage.
+6 Chloe dislikes the plum
+7 Lucas moved the peas to the green_crate.
+8 Where will Chloe look for the peas?	red_drawer	1
+1 Abigail entered the laundry.
+2 Noah entered the laundry.
+3 The sweet_potato is in the green_crate.
+4 Abigail exited the laundry.
+5 Abigail entered the crawlspace.
+6 Noah moved the sweet_potato to the red_bottle.
+7 Noah dislikes the cucumber
+8 Where will Abigail look for the sweet_potato?	green_crate	1
+1 Jack loves the cucumber
+2 Charlotte entered the TV_room.
+3 Charlotte dislikes the grapefruit
+4 Jack entered the TV_room.
+5 The grapefruit is in the red_bottle.
+6 Jack exited the TV_room.
+7 Charlotte moved the grapefruit to the red_bucket.
+8 Where will Jack look for the grapefruit?	red_bottle	1
+1 Chloe hates the cabbage
+2 Evelyn entered the bedroom.
+3 Oliver entered the bedroom.
+4 The apple is in the green_box.
+5 Oliver exited the bedroom.
+6 Evelyn moved the apple to the red_drawer.
+7 Oliver entered the laundry.
+8 Where will Oliver look for the apple?	green_box	1
+1 Mason entered the bedroom.
+2 Oliver likes the orange
+3 Owen entered the bedroom.
+4 The radish is in the green_bucket.
+5 Owen exited the bedroom.
+6 Mason moved the radish to the red_cupboard.
+7 Owen loves the tangerine
+8 Where will Owen look for the radish?	green_bucket	1
+1 Noah likes the pear
+2 Aria entered the living_room.
+3 Jackson entered the TV_room.
+4 Noah entered the TV_room.
+5 The onion is in the green_envelope.
+6 Noah exited the TV_room.
+7 Jackson moved the onion to the blue_basket.
+8 Where will Noah look for the onion?	green_envelope	1
+1 Lily entered the master_bedroom.
+2 William entered the master_bedroom.
+3 The grapes is in the red_crate.
+4 Lily exited the master_bedroom.
+5 William moved the grapes to the blue_envelope.
+6 Where will Lily look for the grapes?	red_crate	1
+1 Jackson entered the front_yard.
+2 Charlotte entered the dining_room.
+3 Ethan entered the dining_room.
+4 The banana is in the blue_envelope.
+5 Charlotte exited the dining_room.
+6 Charlotte entered the front_yard.
+7 Ethan moved the banana to the green_container.
+8 Where will Charlotte look for the banana?	blue_envelope	1
+1 Abigail entered the cellar.
+2 Elizabeth entered the cellar.
+3 The apple is in the green_cupboard.
+4 Abigail exited the cellar.
+5 Elizabeth moved the apple to the green_pantry.
+6 Where will Abigail look for the apple?	green_cupboard	1
+1 Isla entered the closet.
+2 Ava entered the porch.
+3 Jayden entered the porch.
+4 Isla exited the closet.
+5 The peach is in the red_treasure_chest.
+6 Jayden exited the porch.
+7 Ava moved the peach to the blue_bathtub.
+8 Where will Jayden look for the peach?	red_treasure_chest	1
+1 Lucas entered the patio.
+2 Chloe likes the lime
+3 Mia entered the patio.
+4 Chloe entered the patio.
+5 The carrot is in the green_pantry.
+6 Lucas exited the patio.
+7 Chloe likes the sweet_potato
+8 Chloe exited the patio.
+9 Lucas entered the study.
+10 Mia moved the carrot to the red_suitcase.
+11 Where will Lucas look for the carrot?	green_pantry	1
+1 Jack hates the pumpkin
+2 Alexander entered the playroom.
+3 Jayden entered the playroom.
+4 Jayden hates the lettuce
+5 The grapes is in the blue_pantry.
+6 Alexander exited the playroom.
+7 Jayden moved the grapes to the green_pantry.
+8 Where will Alexander look for the grapes?	blue_pantry	1
+1 Carter entered the hallway.
+2 Jacob entered the patio.
+3 Aiden entered the hallway.
+4 The apple is in the blue_drawer.
+5 Carter exited the hallway.
+6 Jacob exited the patio.
+7 Aiden moved the apple to the green_bottle.
+8 Where will Carter look for the apple?	blue_drawer	1
+1 William dislikes the melon
+2 William entered the patio.
+3 Benjamin entered the study.
+4 Benjamin likes the grapefruit
+5 Hunter entered the patio.
+6 The banana is in the red_drawer.
+7 William exited the patio.
+8 Hunter moved the banana to the blue_suitcase.
+9 Where will William look for the banana?	red_drawer	1
+1 Hunter entered the front_yard.
+2 Avery entered the front_yard.
+3 The onion is in the blue_cupboard.
+4 Hunter exited the front_yard.
+5 Avery moved the onion to the red_cupboard.
+6 Hunter dislikes the lemon
+7 Where will Hunter look for the onion?	blue_cupboard	1
+1 Noah loves the pear
+2 Noah entered the cellar.
+3 Liam entered the cellar.
+4 The turnip is in the red_crate.
+5 Liam exited the cellar.
+6 Noah moved the turnip to the blue_suitcase.
+7 Where will Liam look for the turnip?	red_crate	1
+1 Emily is in the playroom.
+2 Amelia loves the cabbage
+3 Jack entered the playroom.
+4 The green_pepper is in the blue_suitcase.
+5 Jack exited the playroom.
+6 Jack entered the pantry.
+7 Emily moved the green_pepper to the blue_cupboard.
+8 Where will Jack look for the green_pepper?	blue_suitcase	1
+1 Oliver entered the patio.
+2 Nathan entered the patio.
+3 The potato is in the red_box.
+4 Alexander entered the dining_room.
+5 Nathan exited the patio.
+6 Nathan dislikes the watermelon
+7 Oliver moved the potato to the red_bucket.
+8 Oliver exited the patio.
+9 Nathan entered the dining_room.
+10 Where will Nathan look for the potato?	red_box	1
+1 Aria entered the closet.
+2 Abigail entered the closet.
+3 Carter entered the closet.
+4 The lettuce is in the blue_cupboard.
+5 Abigail exited the closet.
+6 Carter moved the lettuce to the blue_treasure_chest.
+7 Carter exited the closet.
+8 Abigail entered the workshop.
+9 Where will Abigail look for the lettuce?	blue_cupboard	1
+1 Mila entered the closet.
+2 Ella entered the attic.
+3 William is in the attic.
+4 The peas is in the green_pantry.
+5 William exited the attic.
+6 William entered the closet.
+7 Mila loves the lettuce
+8 Ella moved the peas to the red_basket.
+9 Where will William look for the peas?	green_pantry	1
+1 Jayden entered the basement.
+2 Isla entered the basement.
+3 The radish is in the blue_treasure_chest.
+4 Jayden exited the basement.
+5 Jayden entered the study.
+6 Isla moved the radish to the green_bathtub.
+7 Where will Jayden look for the radish?	blue_treasure_chest	1
+1 Ava entered the kitchen.
+2 Emily entered the attic.
+3 Hannah entered the kitchen.
+4 Hannah likes the green_pepper
+5 The lemon is in the blue_cupboard.
+6 Ava exited the kitchen.
+7 Hannah moved the lemon to the red_cupboard.
+8 Where will Ava look for the lemon?	blue_cupboard	1
+1 Liam likes the eggplant
+2 Liam entered the sunroom.
+3 Noah entered the sunroom.
+4 Jackson entered the sunroom.
+5 The pineapple is in the green_box.
+6 Jackson dislikes the persimmon
+7 Noah exited the sunroom.
+8 Noah entered the kitchen.
+9 Liam moved the pineapple to the blue_cupboard.
+10 Where will Noah look for the pineapple?	green_box	1
+1 Carter entered the hall.
+2 Hannah entered the hall.
+3 Lucas entered the hall.
+4 The grapefruit is in the red_container.
+5 Hannah exited the hall.
+6 Carter moved the grapefruit to the red_cupboard.
+7 Where will Hannah look for the grapefruit?	red_container	1
+1 Elizabeth entered the master_bedroom.
+2 Elizabeth likes the eggplant
+3 Jack entered the master_bedroom.
+4 The plum is in the red_treasure_chest.
+5 Elizabeth likes the spinach
+6 Jack exited the master_bedroom.
+7 Elizabeth moved the plum to the blue_cupboard.
+8 Chloe entered the back_yard.
+9 Where will Jack look for the plum?	red_treasure_chest	1
+1 Nathan entered the lounge.
+2 Ava entered the lounge.
+3 The tangerine is in the blue_bucket.
+4 Nathan exited the lounge.
+5 Ava moved the tangerine to the red_cupboard.
+6 Nathan loves the eggplant
+7 Lily entered the lounge.
+8 Where will Nathan look for the tangerine?	blue_bucket	1
+1 Evelyn entered the attic.
+2 Mila entered the attic.
+3 The lime is in the green_pantry.
+4 Benjamin entered the attic.
+5 Mila exited the attic.
+6 Benjamin exited the attic.
+7 Evelyn moved the lime to the red_pantry.
+8 Where will Mila look for the lime?	green_pantry	1
+1 Elizabeth hates the grapes
+2 Alexander entered the laundry.
+3 Ava entered the laundry.
+4 The pineapple is in the green_cupboard.
+5 Ava exited the laundry.
+6 Alexander moved the pineapple to the red_drawer.
+7 Alexander loves the watermelon
+8 Where will Ava look for the pineapple?	green_cupboard	1
+1 Mia entered the living_room.
+2 Mason entered the master_bedroom.
+3 Jack loves the onion
+4 Jack entered the living_room.
+5 The orange is in the green_cupboard.
+6 Mia exited the living_room.
+7 Jack dislikes the pineapple
+8 Mia entered the master_bedroom.
+9 Jack moved the orange to the blue_suitcase.
+10 Where will Mia look for the orange?	green_cupboard	1
+1 Isla hates the pear
+2 Ava entered the garden.
+3 Sophia is in the garden.
+4 The strawberry is in the blue_bucket.
+5 Isla entered the garden.
+6 Isla exited the garden.
+7 Ava hates the asparagus
+8 Sophia exited the garden.
+9 Ava moved the strawberry to the red_treasure_chest.
+10 Where will Sophia look for the strawberry?	blue_bucket	1
+1 Elizabeth entered the hall.
+2 William entered the hall.
+3 The radish is in the green_suitcase.
+4 Jack entered the basement.
+5 Elizabeth exited the hall.
+6 Elizabeth entered the basement.
+7 William moved the radish to the blue_pantry.
+8 Where will Elizabeth look for the radish?	green_suitcase	1
+1 Avery entered the crawlspace.
+2 James likes the cucumber
+3 James entered the crawlspace.
+4 Avery hates the melon
+5 The grapes is in the red_bottle.
+6 Mason entered the crawlspace.
+7 Avery exited the crawlspace.
+8 James moved the grapes to the red_treasure_chest.
+9 Where will Avery look for the grapes?	red_bottle	1
+1 Jayden entered the hallway.
+2 Aiden loves the eggplant
+3 Aiden entered the hall.
+4 Charlotte entered the hallway.
+5 The turnip is in the green_container.
+6 Charlotte exited the hallway.
+7 Charlotte entered the hall.
+8 Aiden dislikes the potato
+9 Aiden exited the hall.
+10 Jayden moved the turnip to the blue_drawer.
+11 Where will Charlotte look for the turnip?	green_container	1
+1 Olivia entered the TV_room.
+2 Benjamin entered the TV_room.
+3 The broccoli is in the blue_envelope.
+4 Benjamin exited the TV_room.
+5 Benjamin dislikes the pumpkin
+6 Olivia loves the eggplant
+7 Olivia moved the broccoli to the blue_bucket.
+8 Jayden entered the closet.
+9 Where will Benjamin look for the broccoli?	blue_envelope	1
+1 Evelyn entered the living_room.
+2 Oliver entered the living_room.
+3 Alexander entered the kitchen.
+4 The onion is in the green_bathtub.
+5 Evelyn exited the living_room.
+6 Alexander exited the kitchen.
+7 Evelyn loves the pumpkin
+8 Oliver moved the onion to the green_pantry.
+9 Where will Evelyn look for the onion?	green_bathtub	1
+1 Isabella entered the staircase.
+2 Ethan entered the staircase.
+3 The strawberry is in the green_box.
+4 Hunter entered the staircase.
+5 Isabella exited the staircase.
+6 Hunter exited the staircase.
+7 Ethan moved the strawberry to the green_bottle.
+8 Where will Isabella look for the strawberry?	green_box	1
+1 William entered the hall.
+2 Jackson entered the hall.
+3 Hannah entered the hall.
+4 The peas is in the blue_bucket.
+5 Hannah exited the hall.
+6 Hannah dislikes the apple
+7 William loves the strawberry
+8 Jackson exited the hall.
+9 William moved the peas to the green_suitcase.
+10 Where will Hannah look for the peas?	blue_bucket	1
+1 Ava entered the workshop.
+2 Jackson entered the patio.
+3 Benjamin entered the workshop.
+4 The eggplant is in the blue_bathtub.
+5 Jackson likes the pineapple
+6 Jackson exited the patio.
+7 Ava exited the workshop.
+8 Benjamin moved the eggplant to the green_suitcase.
+9 Benjamin exited the workshop.
+10 Ava entered the patio.
+11 Where will Ava look for the eggplant?	blue_bathtub	1
+1 Mila entered the crawlspace.
+2 Ella entered the crawlspace.
+3 Jayden entered the workshop.
+4 The spinach is in the red_bottle.
+5 Ella exited the crawlspace.
+6 Jayden exited the workshop.
+7 Mila moved the spinach to the blue_drawer.
+8 Where will Ella look for the spinach?	red_bottle	1
+1 Jacob dislikes the pumpkin
+2 Oliver entered the workshop.
+3 Jacob entered the workshop.
+4 The beans is in the blue_container.
+5 Jacob dislikes the grapefruit
+6 Jacob exited the workshop.
+7 Oliver moved the beans to the red_bucket.
+8 Where will Jacob look for the beans?	blue_container	1
+1 Carter entered the office.
+2 Ella entered the office.
+3 The eggplant is in the blue_bottle.
+4 Jayden entered the bathroom.
+5 Jayden hates the eggplant
+6 Jayden exited the bathroom.
+7 Jayden loves the eggplant
+8 Ella exited the office.
+9 Carter moved the eggplant to the blue_bathtub.
+10 Where will Ella look for the eggplant?	blue_bottle	1
+1 Jack entered the TV_room.
+2 Jack hates the potato
+3 Jacob entered the TV_room.
+4 Jacob hates the celery
+5 The pineapple is in the red_basket.
+6 Jacob exited the TV_room.
+7 Jack moved the pineapple to the blue_crate.
+8 Where will Jacob look for the pineapple?	red_basket	1
+1 Chloe entered the closet.
+2 Aria entered the closet.
+3 Avery entered the study.
+4 The tomato is in the red_bucket.
+5 Chloe exited the closet.
+6 Aria moved the tomato to the blue_basket.
+7 Where will Chloe look for the tomato?	red_bucket	1
+1 Lucas entered the garage.
+2 Lily entered the garage.
+3 William entered the garage.
+4 Lily loves the tangerine
+5 The grapes is in the green_basket.
+6 Lucas exited the garage.
+7 Lily moved the grapes to the blue_suitcase.
+8 Lucas entered the kitchen.
+9 Where will Lucas look for the grapes?	green_basket	1
+1 Emma entered the laundry.
+2 Sophia entered the laundry.
+3 The apple is in the blue_drawer.
+4 Carter loves the watermelon
+5 Emma exited the laundry.
+6 Sophia moved the apple to the blue_bottle.
+7 Where will Emma look for the apple?	blue_drawer	1
+1 Liam entered the patio.
+2 Mia entered the patio.
+3 Mia dislikes the banana
+4 The tangerine is in the green_suitcase.
+5 Mia exited the patio.
+6 Liam moved the tangerine to the blue_suitcase.
+7 Where will Mia look for the tangerine?	green_suitcase	1
+1 Ethan entered the hallway.
+2 Ethan exited the hallway.
+3 Olivia entered the hallway.
+4 Charlotte loves the grapefruit
+5 Charlotte entered the hallway.
+6 The tomato is in the blue_envelope.
+7 Charlotte exited the hallway.
+8 Charlotte entered the study.
+9 Olivia moved the tomato to the blue_drawer.
+10 Where will Charlotte look for the tomato?	blue_envelope	1
+1 Liam entered the porch.
+2 Chloe entered the porch.
+3 The lettuce is in the green_crate.
+4 Chloe exited the porch.
+5 Elizabeth entered the closet.
+6 Liam moved the lettuce to the green_drawer.
+7 Where will Chloe look for the lettuce?	green_crate	1
+1 Jacob entered the office.
+2 Amelia entered the living_room.
+3 Elizabeth entered the living_room.
+4 The spinach is in the blue_bottle.
+5 Amelia exited the living_room.
+6 Elizabeth moved the spinach to the green_cupboard.
+7 Where will Amelia look for the spinach?	blue_bottle	1
+1 Mason entered the staircase.
+2 Benjamin entered the staircase.
+3 Liam entered the staircase.
+4 The turnip is in the blue_crate.
+5 Benjamin exited the staircase.
+6 Liam moved the turnip to the green_box.
+7 Where will Benjamin look for the turnip?	blue_crate	1
+1 Mila entered the staircase.
+2 Jayden entered the staircase.
+3 The tomato is in the green_suitcase.
+4 Jayden exited the staircase.
+5 Mila moved the tomato to the green_basket.
+6 Where will Jayden look for the tomato?	green_suitcase	1
+1 Isabella entered the living_room.
+2 Chloe loves the radish
+3 Benjamin entered the living_room.
+4 The radish is in the green_suitcase.
+5 Isabella exited the living_room.
+6 Benjamin moved the radish to the blue_container.
+7 Chloe dislikes the grapefruit
+8 Where will Isabella look for the radish?	green_suitcase	1
+1 Emily entered the garage.
+2 Mason entered the garage.
+3 The grapefruit is in the blue_drawer.
+4 Mason exited the garage.
+5 Emily moved the grapefruit to the green_envelope.
+6 Where will Mason look for the grapefruit?	blue_drawer	1
+1 Charlotte entered the hall.
+2 Isabella entered the hall.
+3 The pumpkin is in the green_envelope.
+4 Charlotte exited the hall.
+5 Elizabeth entered the hall.
+6 Elizabeth exited the hall.
+7 Charlotte entered the porch.
+8 Isabella moved the pumpkin to the green_basket.
+9 Where will Charlotte look for the pumpkin?	green_envelope	1
+1 William is in the cellar.
+2 Owen entered the cellar.
+3 The potato is in the blue_bucket.
+4 Ella likes the persimmon
+5 William exited the cellar.
+6 Owen moved the potato to the green_container.
+7 William dislikes the onion
+8 William entered the garden.
+9 Where will William look for the potato?	blue_bucket	1
+1 Olivia entered the staircase.
+2 Amelia entered the staircase.
+3 The lime is in the red_treasure_chest.
+4 Olivia exited the staircase.
+5 Amelia moved the lime to the blue_bucket.
+6 Where will Olivia look for the lime?	red_treasure_chest	1
+1 Olivia entered the back_yard.
+2 Hannah entered the hall.
+3 James entered the back_yard.
+4 The radish is in the green_cupboard.
+5 Hannah exited the hall.
+6 James exited the back_yard.
+7 James loves the broccoli
+8 Olivia moved the radish to the blue_suitcase.
+9 Where will James look for the radish?	green_cupboard	1
+1 Chloe entered the office.
+2 Ethan entered the office.
+3 The green_pepper is in the green_treasure_chest.
+4 Isabella likes the pumpkin
+5 Isabella entered the dining_room.
+6 Ethan likes the plum
+7 Chloe exited the office.
+8 Ethan moved the green_pepper to the blue_basket.
+9 Where will Chloe look for the green_pepper?	green_treasure_chest	1
+1 Nathan entered the hallway.
+2 Oliver entered the hallway.
+3 Hunter entered the hallway.
+4 The radish is in the blue_crate.
+5 Nathan exited the hallway.
+6 Oliver exited the hallway.
+7 Hunter moved the radish to the red_bathtub.
+8 Where will Oliver look for the radish?	blue_crate	1
+1 Isla likes the lettuce
+2 Isla entered the master_bedroom.
+3 Ella entered the master_bedroom.
+4 The lemon is in the green_drawer.
+5 Owen entered the back_yard.
+6 Owen exited the back_yard.
+7 Isla exited the master_bedroom.
+8 Ella moved the lemon to the blue_box.
+9 Where will Isla look for the lemon?	green_drawer	1
+1 Mila entered the staircase.
+2 Ethan likes the corn
+3 Aiden entered the sunroom.
+4 Ethan entered the staircase.
+5 The asparagus is in the blue_container.
+6 Mila exited the staircase.
+7 Aiden exited the sunroom.
+8 Ethan moved the asparagus to the green_cupboard.
+9 Where will Mila look for the asparagus?	blue_container	1
+1 Owen entered the den.
+2 Aria entered the crawlspace.
+3 Benjamin is in the crawlspace.
+4 The melon is in the blue_box.
+5 Aria exited the crawlspace.
+6 Owen exited the den.
+7 Benjamin moved the melon to the red_cupboard.
+8 Where will Aria look for the melon?	blue_box	1
+1 Jack entered the lounge.
+2 Aria entered the lounge.
+3 The lettuce is in the green_pantry.
+4 Aria likes the cucumber
+5 Aria exited the lounge.
+6 Jack moved the lettuce to the red_pantry.
+7 Jack exited the lounge.
+8 Aria entered the garage.
+9 Where will Aria look for the lettuce?	green_pantry	1
+1 Evelyn entered the workshop.
+2 Ethan entered the workshop.
+3 The eggplant is in the red_bottle.
+4 Evelyn exited the workshop.
+5 Ethan moved the eggplant to the green_treasure_chest.
+6 Ethan exited the workshop.
+7 Evelyn entered the basement.
+8 Where will Evelyn look for the eggplant?	red_bottle	1
+1 Oliver entered the laundry.
+2 William loves the plum
+3 Isla entered the laundry.
+4 Oliver loves the lemon
+5 The pineapple is in the red_bottle.
+6 Isla exited the laundry.
+7 Oliver moved the pineapple to the green_bathtub.
+8 Where will Isla look for the pineapple?	red_bottle	1
+1 Liam likes the green_pepper
+2 Liam entered the workshop.
+3 Mila entered the workshop.
+4 The watermelon is in the green_drawer.
+5 Noah entered the workshop.
+6 Mila exited the workshop.
+7 Noah exited the workshop.
+8 Liam moved the watermelon to the green_crate.
+9 Where will Mila look for the watermelon?	green_drawer	1
+1 Nathan entered the cellar.
+2 Ella entered the cellar.
+3 The lime is in the blue_bathtub.
+4 Nathan exited the cellar.
+5 Ella moved the lime to the red_cupboard.
+6 Lucas entered the cellar.
+7 Where will Nathan look for the lime?	blue_bathtub	1
+1 Emily entered the bedroom.
+2 Jacob entered the bedroom.
+3 The lemon is in the blue_pantry.
+4 Amelia entered the bedroom.
+5 Emily exited the bedroom.
+6 Amelia exited the bedroom.
+7 Jacob moved the lemon to the red_container.
+8 Where will Emily look for the lemon?	blue_pantry	1
+1 Liam entered the kitchen.
+2 Benjamin entered the kitchen.
+3 The onion is in the blue_drawer.
+4 Liam exited the kitchen.
+5 Benjamin moved the onion to the red_drawer.
+6 Jayden dislikes the orange
+7 Where will Liam look for the onion?	blue_drawer	1
+1 Lucas entered the lounge.
+2 Liam dislikes the lettuce
+3 Oliver entered the lounge.
+4 The lettuce is in the red_suitcase.
+5 Lucas loves the grapes
+6 Lucas exited the lounge.
+7 Oliver moved the lettuce to the green_cupboard.
+8 Where will Lucas look for the lettuce?	red_suitcase	1
+1 Ava entered the attic.
+2 Lucas entered the attic.
+3 The banana is in the red_bathtub.
+4 Ava exited the attic.
+5 Ava entered the study.
+6 Lucas moved the banana to the red_drawer.
+7 Where will Ava look for the banana?	red_bathtub	1
+1 Elizabeth entered the attic.
+2 Chloe entered the attic.
+3 Elizabeth dislikes the peas
+4 The lemon is in the red_bucket.
+5 Elizabeth exited the attic.
+6 Elizabeth entered the sunroom.
+7 Chloe moved the lemon to the red_suitcase.
+8 Where will Elizabeth look for the lemon?	red_bucket	1
+1 Aria dislikes the tomato
+2 Logan entered the den.
+3 Jacob entered the den.
+4 The asparagus is in the blue_envelope.
+5 Aria entered the den.
+6 Jacob exited the den.
+7 Jacob entered the attic.
+8 Logan moved the asparagus to the blue_container.
+9 Where will Jacob look for the asparagus?	blue_envelope	1
+1 Evelyn is in the office.
+2 Ava entered the office.
+3 The grapefruit is in the green_cupboard.
+4 Ava exited the office.
+5 Evelyn moved the grapefruit to the blue_envelope.
+6 Evelyn exited the office.
+7 Ava entered the bathroom.
+8 Where will Ava look for the grapefruit?	green_cupboard	1
+1 Elizabeth entered the bedroom.
+2 William entered the bedroom.
+3 The peach is in the blue_drawer.
+4 William exited the bedroom.
+5 Jackson entered the garage.
+6 Elizabeth dislikes the watermelon
+7 Jackson loves the eggplant
+8 Elizabeth moved the peach to the green_cupboard.
+9 Where will William look for the peach?	blue_drawer	1
+1 Evelyn entered the playroom.
+2 Isabella entered the playroom.
+3 The carrot is in the red_crate.
+4 Logan entered the playroom.
+5 Evelyn exited the playroom.
+6 Logan exited the playroom.
+7 Isabella moved the carrot to the green_envelope.
+8 Where will Evelyn look for the carrot?	red_crate	1
+1 Emma likes the spinach
+2 Emma likes the carrot
+3 Lily entered the TV_room.
+4 William entered the TV_room.
+5 The grapefruit is in the blue_treasure_chest.
+6 Lily exited the TV_room.
+7 William moved the grapefruit to the red_container.
+8 Where will Lily look for the grapefruit?	blue_treasure_chest	1
+1 Mia entered the bedroom.
+2 Isla entered the bedroom.
+3 Isla hates the orange
+4 The pineapple is in the blue_pantry.
+5 Mia exited the bedroom.
+6 Hunter entered the bedroom.
+7 Isla moved the pineapple to the green_container.
+8 Mia entered the living_room.
+9 Where will Mia look for the pineapple?	blue_pantry	1
+1 Hunter entered the hallway.
+2 Liam entered the hallway.
+3 The persimmon is in the green_bucket.
+4 Jayden entered the hallway.
+5 Jayden dislikes the apple
+6 Hunter exited the hallway.
+7 Jayden exited the hallway.
+8 Liam moved the persimmon to the green_envelope.
+9 Where will Hunter look for the persimmon?	green_bucket	1
+1 William entered the garden.
+2 Ella entered the garden.
+3 The tangerine is in the red_basket.
+4 William exited the garden.
+5 Ella moved the tangerine to the blue_cupboard.
+6 Where will William look for the tangerine?	red_basket	1
+1 Mila entered the office.
+2 Jack entered the office.
+3 Amelia entered the office.
+4 The onion is in the red_drawer.
+5 Mila exited the office.
+6 Mila entered the workshop.
+7 Jack moved the onion to the green_basket.
+8 Where will Mila look for the onion?	red_drawer	1
+1 Benjamin entered the laundry.
+2 Chloe entered the laundry.
+3 The pumpkin is in the green_pantry.
+4 Chloe exited the laundry.
+5 Benjamin moved the pumpkin to the red_envelope.
+6 Where will Chloe look for the pumpkin?	green_pantry	1
+1 Isla entered the hallway.
+2 Oliver entered the hallway.
+3 The sweet_potato is in the red_drawer.
+4 Oliver exited the hallway.
+5 Isla moved the sweet_potato to the blue_bathtub.
+6 Jackson entered the sunroom.
+7 Where will Oliver look for the sweet_potato?	red_drawer	1
+1 Mila entered the office.
+2 Mila likes the grapefruit
+3 Hunter entered the office.
+4 The pineapple is in the green_envelope.
+5 Hunter exited the office.
+6 Aria dislikes the lemon
+7 Mila moved the pineapple to the green_basket.
+8 Where will Hunter look for the pineapple?	green_envelope	1
+1 William entered the patio.
+2 Carter entered the patio.
+3 The plum is in the red_basket.
+4 William exited the patio.
+5 Carter moved the plum to the blue_pantry.
+6 Where will William look for the plum?	red_basket	1
+1 Oliver entered the basement.
+2 Mila entered the basement.
+3 Logan entered the hallway.
+4 Logan exited the hallway.
+5 Oliver loves the cherry
+6 The potato is in the red_container.
+7 Oliver exited the basement.
+8 Mila moved the potato to the blue_cupboard.
+9 Where will Oliver look for the potato?	red_container	1
+1 Benjamin loves the strawberry
+2 Jacob entered the garage.
+3 Benjamin entered the garage.
+4 The corn is in the blue_drawer.
+5 Benjamin exited the garage.
+6 Jacob dislikes the orange
+7 Jacob moved the corn to the green_suitcase.
+8 Where will Benjamin look for the corn?	blue_drawer	1
+1 Mason entered the pantry.
+2 William entered the dining_room.
+3 William hates the lemon
+4 Isabella entered the pantry.
+5 The pear is in the red_crate.
+6 Mason exited the pantry.
+7 William loves the celery
+8 Isabella moved the pear to the green_basket.
+9 Where will Mason look for the pear?	red_crate	1
+1 Lucas entered the playroom.
+2 Lucas exited the playroom.
+3 Logan entered the playroom.
+4 Aiden entered the playroom.
+5 The onion is in the red_crate.
+6 Aiden exited the playroom.
+7 Logan moved the onion to the blue_drawer.
+8 Where will Aiden look for the onion?	red_crate	1
+1 Lily entered the living_room.
+2 Logan entered the living_room.
+3 The orange is in the blue_envelope.
+4 Lily exited the living_room.
+5 Logan moved the orange to the blue_bucket.
+6 Lily loves the turnip
+7 Logan exited the living_room.
+8 Isla dislikes the cucumber
+9 Isla entered the closet.
+10 Isla exited the closet.
+11 Lily entered the closet.
+12 Where will Lily look for the orange?	blue_envelope	1
+1 Olivia entered the hall.
+2 Aria entered the hall.
+3 The pear is in the blue_bottle.
+4 Olivia exited the hall.
+5 Aria moved the pear to the green_basket.
+6 Olivia entered the master_bedroom.
+7 Where will Olivia look for the pear?	blue_bottle	1
+1 Jacob entered the hallway.
+2 Lily entered the workshop.
+3 Isla entered the hallway.
+4 The peas is in the green_suitcase.
+5 Jacob exited the hallway.
+6 Isla moved the peas to the green_crate.
+7 Lily exited the workshop.
+8 Jacob entered the workshop.
+9 Where will Jacob look for the peas?	green_suitcase	1
+1 Benjamin entered the bathroom.
+2 Amelia entered the bathroom.
+3 Charlotte entered the bathroom.
+4 The lettuce is in the red_container.
+5 Charlotte exited the bathroom.
+6 Amelia moved the lettuce to the red_drawer.
+7 Where will Charlotte look for the lettuce?	red_container	1
+1 Mila entered the pantry.
+2 William entered the pantry.
+3 The lettuce is in the green_bottle.
+4 Mila exited the pantry.
+5 Mila hates the broccoli
+6 William dislikes the potato
+7 William moved the lettuce to the blue_pantry.
+8 Where will Mila look for the lettuce?	green_bottle	1
+1 Nathan entered the kitchen.
+2 Jayden entered the kitchen.
+3 Charlotte entered the kitchen.
+4 The tomato is in the red_container.
+5 Nathan exited the kitchen.
+6 Charlotte moved the tomato to the red_basket.
+7 Nathan entered the basement.
+8 Where will Nathan look for the tomato?	red_container	1
+1 Owen loves the lemon
+2 Owen entered the living_room.
+3 William entered the living_room.
+4 The celery is in the red_basket.
+5 Owen exited the living_room.
+6 William moved the celery to the green_envelope.
+7 William exited the living_room.
+8 Mason entered the living_room.
+9 Owen entered the back_yard.
+10 Where will Owen look for the celery?	red_basket	1
+1 Chloe entered the den.
+2 Chloe loves the celery
+3 Isabella entered the den.
+4 Alexander dislikes the broccoli
+5 The broccoli is in the green_suitcase.
+6 Chloe exited the den.
+7 Isabella moved the broccoli to the green_basket.
+8 Where will Chloe look for the broccoli?	green_suitcase	1
+1 Ethan hates the orange
+2 Noah entered the laundry.
+3 Lily entered the laundry.
+4 The tomato is in the green_crate.
+5 Noah exited the laundry.
+6 Lily moved the tomato to the green_bathtub.
+7 Noah entered the dining_room.
+8 Ethan loves the tangerine
+9 Where will Noah look for the tomato?	green_crate	1
+1 Benjamin entered the garage.
+2 Noah entered the garage.
+3 The radish is in the blue_treasure_chest.
+4 Benjamin exited the garage.
+5 Lucas entered the hallway.
+6 Lucas exited the hallway.
+7 Noah moved the radish to the red_pantry.
+8 Where will Benjamin look for the radish?	blue_treasure_chest	1
+1 Alexander entered the bathroom.
+2 Emily entered the bathroom.
+3 The eggplant is in the green_crate.
+4 Carter entered the bathroom.
+5 Alexander exited the bathroom.
+6 Emily moved the eggplant to the green_suitcase.
+7 Alexander entered the dining_room.
+8 Where will Alexander look for the eggplant?	green_crate	1
+1 Oliver loves the plum
+2 Lucas entered the den.
+3 Oliver entered the den.
+4 The lettuce is in the green_bathtub.
+5 Oliver exited the den.
+6 Lucas moved the lettuce to the red_treasure_chest.
+7 Where will Oliver look for the lettuce?	green_bathtub	1
+1 Hannah entered the laundry.
+2 Owen entered the laundry.
+3 The tomato is in the red_bathtub.
+4 Hannah exited the laundry.
+5 Jayden entered the crawlspace.
+6 Owen moved the tomato to the red_suitcase.
+7 Where will Hannah look for the tomato?	red_bathtub	1
+1 Avery entered the dining_room.
+2 Isla entered the bedroom.
+3 Chloe entered the dining_room.
+4 Isla exited the bedroom.
+5 The banana is in the red_box.
+6 Chloe exited the dining_room.
+7 Avery moved the banana to the green_treasure_chest.
+8 Where will Chloe look for the banana?	red_box	1
+1 Mila entered the back_yard.
+2 Ella entered the back_yard.
+3 Ella dislikes the spinach
+4 Liam entered the living_room.
+5 Liam exited the living_room.
+6 The pumpkin is in the green_treasure_chest.
+7 Mila likes the banana
+8 Ella exited the back_yard.
+9 Mila moved the pumpkin to the red_drawer.
+10 Mila exited the back_yard.
+11 Ella entered the living_room.
+12 Where will Ella look for the pumpkin?	green_treasure_chest	1
+1 Oliver entered the basement.
+2 Mila entered the basement.
+3 Isla entered the basement.
+4 The pear is in the green_bathtub.
+5 Mila exited the basement.
+6 Isla moved the pear to the green_crate.
+7 Isla exited the basement.
+8 Mila entered the study.
+9 Where will Mila look for the pear?	green_bathtub	1
+1 Amelia entered the front_yard.
+2 Charlotte entered the front_yard.
+3 Lucas entered the front_yard.
+4 The corn is in the red_crate.
+5 Charlotte exited the front_yard.
+6 Lucas exited the front_yard.
+7 Charlotte loves the turnip
+8 Amelia moved the corn to the blue_bathtub.
+9 Where will Charlotte look for the corn?	red_crate	1
+1 Jacob entered the kitchen.
+2 Lily entered the kitchen.
+3 The beans is in the green_basket.
+4 Lily dislikes the eggplant
+5 Lily exited the kitchen.
+6 Jacob moved the beans to the green_container.
+7 Where will Lily look for the beans?	green_basket	1
+1 Jayden hates the peas
+2 Hunter entered the staircase.
+3 Jayden entered the staircase.
+4 The orange is in the blue_basket.
+5 Jayden exited the staircase.
+6 Hunter moved the orange to the red_bottle.
+7 Where will Jayden look for the orange?	blue_basket	1
+1 Evelyn loves the peas
+2 Evelyn entered the study.
+3 Jayden entered the study.
+4 The banana is in the blue_basket.
+5 Jayden dislikes the cabbage
+6 Nathan entered the staircase.
+7 Evelyn exited the study.
+8 Nathan exited the staircase.
+9 Jayden moved the banana to the blue_treasure_chest.
+10 Where will Evelyn look for the banana?	blue_basket	1
+1 Mia entered the pantry.
+2 Lucas likes the lemon
+3 Benjamin entered the pantry.
+4 Mia dislikes the cherry
+5 Lucas entered the pantry.
+6 The turnip is in the blue_suitcase.
+7 Benjamin exited the pantry.
+8 Mia moved the turnip to the green_basket.
+9 Where will Benjamin look for the turnip?	blue_suitcase	1
+1 Amelia entered the TV_room.
+2 Jackson entered the TV_room.
+3 The strawberry is in the blue_bathtub.
+4 Jackson hates the pear
+5 Amelia exited the TV_room.
+6 Emma hates the celery
+7 Jackson moved the strawberry to the red_drawer.
+8 Where will Amelia look for the strawberry?	blue_bathtub	1
+1 Lucas entered the closet.
+2 Sophia entered the closet.
+3 Amelia entered the laundry.
+4 The asparagus is in the red_treasure_chest.
+5 Lucas exited the closet.
+6 Sophia moved the asparagus to the blue_container.
+7 Where will Lucas look for the asparagus?	red_treasure_chest	1
+1 Jackson hates the pumpkin
+2 Amelia entered the crawlspace.
+3 Jackson entered the crawlspace.
+4 Sophia entered the study.
+5 The lemon is in the red_treasure_chest.
+6 Jackson dislikes the radish
+7 Amelia exited the crawlspace.
+8 Sophia exited the study.
+9 Jackson moved the lemon to the blue_bucket.
+10 Where will Amelia look for the lemon?	red_treasure_chest	1
+1 Olivia entered the lounge.
+2 Ava likes the grapefruit
+3 Ava entered the lounge.
+4 The apple is in the green_basket.
+5 Ava exited the lounge.
+6 Olivia moved the apple to the red_bathtub.
+7 Where will Ava look for the apple?	green_basket	1
+1 Benjamin entered the study.
+2 Emma entered the study.
+3 The banana is in the blue_container.
+4 Emma exited the study.
+5 Benjamin moved the banana to the red_crate.
+6 William entered the porch.
+7 Where will Emma look for the banana?	blue_container	1
+1 Mila entered the workshop.
+2 Hunter entered the workshop.
+3 The lemon is in the blue_drawer.
+4 Mila exited the workshop.
+5 Hunter dislikes the radish
+6 Hunter dislikes the pear
+7 Charlotte entered the workshop.
+8 Hunter moved the lemon to the green_container.
+9 Mila entered the patio.
+10 Where will Mila look for the lemon?	blue_drawer	1
+1 Logan hates the pear
+2 Charlotte is in the sunroom.
+3 Logan entered the sunroom.
+4 The tomato is in the blue_crate.
+5 Charlotte exited the sunroom.
+6 Logan moved the tomato to the red_envelope.
+7 Where will Charlotte look for the tomato?	blue_crate	1
+1 Jayden entered the kitchen.
+2 William entered the kitchen.
+3 The grapefruit is in the blue_treasure_chest.
+4 Emily entered the kitchen.
+5 William exited the kitchen.
+6 Jayden moved the grapefruit to the blue_container.
+7 Where will William look for the grapefruit?	blue_treasure_chest	1
+1 Charlotte entered the pantry.
+2 Mila is in the pantry.
+3 The celery is in the green_container.
+4 Charlotte hates the cabbage
+5 Charlotte exited the pantry.
+6 Charlotte hates the green_pepper
+7 Mila moved the celery to the green_box.
+8 Where will Charlotte look for the celery?	green_container	1
+1 Aria is in the crawlspace.
+2 Aria hates the lime
+3 Mason entered the crawlspace.
+4 The radish is in the green_box.
+5 Mason exited the crawlspace.
+6 Aria moved the radish to the green_container.
+7 Mason entered the pantry.
+8 Aria dislikes the peach
+9 Where will Mason look for the radish?	green_box	1
+1 Elizabeth hates the corn
+2 Isabella entered the bathroom.
+3 Elizabeth entered the bathroom.
+4 Jayden entered the office.
+5 The celery is in the blue_suitcase.
+6 Isabella exited the bathroom.
+7 Jayden exited the office.
+8 Elizabeth moved the celery to the red_drawer.
+9 Isabella hates the lime
+10 Where will Isabella look for the celery?	blue_suitcase	1
+1 Evelyn entered the hallway.
+2 Jack entered the hallway.
+3 Jackson likes the potato
+4 Evelyn hates the peach
+5 Evelyn exited the hallway.
+6 Jackson entered the hallway.
+7 The strawberry is in the green_suitcase.
+8 Jack exited the hallway.
+9 Jackson moved the strawberry to the blue_bottle.
+10 Where will Jack look for the strawberry?	green_suitcase	1
+1 Benjamin entered the bathroom.
+2 Avery entered the bathroom.
+3 Hannah entered the bathroom.
+4 Avery exited the bathroom.
+5 The peach is in the blue_bathtub.
+6 Benjamin exited the bathroom.
+7 Hannah moved the peach to the green_suitcase.
+8 Where will Benjamin look for the peach?	blue_bathtub	1
+1 James entered the laundry.
+2 Jayden entered the hall.
+3 Emma is in the hall.
+4 Jayden hates the corn
+5 The pineapple is in the blue_bucket.
+6 Jayden loves the melon
+7 Emma exited the hall.
+8 Jayden moved the pineapple to the blue_envelope.
+9 Where will Emma look for the pineapple?	blue_bucket	1
+1 Benjamin entered the master_bedroom.
+2 Evelyn entered the master_bedroom.
+3 Benjamin hates the spinach
+4 The radish is in the red_basket.
+5 Benjamin dislikes the asparagus
+6 Mia entered the hallway.
+7 Mia exited the hallway.
+8 Evelyn exited the master_bedroom.
+9 Benjamin moved the radish to the red_cupboard.
+10 Where will Evelyn look for the radish?	red_basket	1
+1 Jack entered the dining_room.
+2 Emily entered the dining_room.
+3 The turnip is in the green_pantry.
+4 Jack exited the dining_room.
+5 Emily moved the turnip to the red_suitcase.
+6 Where will Jack look for the turnip?	green_pantry	1
+1 Benjamin entered the master_bedroom.
+2 Jayden is in the master_bedroom.
+3 The lime is in the green_box.
+4 Jayden dislikes the grapes
+5 Mason entered the master_bedroom.
+6 Benjamin exited the master_bedroom.
+7 Jayden loves the persimmon
+8 Jayden moved the lime to the green_pantry.
+9 Where will Benjamin look for the lime?	green_box	1
+1 James entered the kitchen.
+2 Mila entered the TV_room.
+3 Mia entered the kitchen.
+4 The radish is in the green_crate.
+5 Mila hates the grapefruit
+6 Mila exited the TV_room.
+7 Mia exited the kitchen.
+8 James hates the melon
+9 James moved the radish to the green_treasure_chest.
+10 Where will Mia look for the radish?	green_crate	1
+1 James entered the dining_room.
+2 Aria entered the dining_room.
+3 Aria exited the dining_room.
+4 Oliver entered the dining_room.
+5 The watermelon is in the green_bucket.
+6 Aria dislikes the cabbage
+7 James exited the dining_room.
+8 Oliver moved the watermelon to the red_treasure_chest.
+9 James entered the back_yard.
+10 Where will James look for the watermelon?	green_bucket	1
+1 Aiden entered the lounge.
+2 James entered the lounge.
+3 The peach is in the green_suitcase.
+4 Aiden exited the lounge.
+5 James moved the peach to the green_bottle.
+6 Aiden entered the hallway.
+7 Where will Aiden look for the peach?	green_suitcase	1
+1 Mila entered the kitchen.
+2 Noah hates the apple
+3 Noah entered the kitchen.
+4 The lettuce is in the green_treasure_chest.
+5 Mila exited the kitchen.
+6 Noah moved the lettuce to the blue_bucket.
+7 Noah hates the peach
+8 Where will Mila look for the lettuce?	green_treasure_chest	1
+1 Lucas entered the garden.
+2 Isabella is in the garden.
+3 The lettuce is in the blue_basket.
+4 Olivia entered the garden.
+5 Isabella exited the garden.
+6 Olivia exited the garden.
+7 Lucas moved the lettuce to the red_crate.
+8 Where will Isabella look for the lettuce?	blue_basket	1
+1 Aiden entered the study.
+2 Jayden entered the study.
+3 Sophia entered the study.
+4 The melon is in the red_bathtub.
+5 Aiden exited the study.
+6 Jayden exited the study.
+7 Sophia moved the melon to the red_crate.
+8 Where will Jayden look for the melon?	red_bathtub	1
+1 Mila entered the lounge.
+2 Mason entered the lounge.
+3 Mila likes the celery
+4 The lime is in the green_envelope.
+5 Mila exited the lounge.
+6 Mason moved the lime to the red_pantry.
+7 Where will Mila look for the lime?	green_envelope	1
+1 Jack entered the garden.
+2 Logan entered the garden.
+3 The persimmon is in the green_box.
+4 Jack exited the garden.
+5 Logan moved the persimmon to the blue_cupboard.
+6 Jack entered the front_yard.
+7 Jack hates the pear
+8 Where will Jack look for the persimmon?	green_box	1
+1 Jackson entered the office.
+2 Emma entered the office.
+3 The cabbage is in the red_envelope.
+4 Jackson exited the office.
+5 Emma moved the cabbage to the green_crate.
+6 Where will Jackson look for the cabbage?	red_envelope	1
+1 Ava entered the workshop.
+2 Ava likes the celery
+3 Mila entered the workshop.
+4 The carrot is in the red_drawer.
+5 Ava exited the workshop.
+6 Mila moved the carrot to the green_cupboard.
+7 Ava entered the staircase.
+8 Where will Ava look for the carrot?	red_drawer	1
+1 Sophia entered the master_bedroom.
+2 Lucas loves the strawberry
+3 Lucas entered the master_bedroom.
+4 The eggplant is in the green_basket.
+5 Lucas exited the master_bedroom.
+6 Liam likes the peach
+7 Sophia moved the eggplant to the blue_drawer.
+8 Where will Lucas look for the eggplant?	green_basket	1
+1 Abigail entered the hall.
+2 Elizabeth entered the hall.
+3 The pineapple is in the blue_bathtub.
+4 Elizabeth exited the hall.
+5 Abigail moved the pineapple to the green_bottle.
+6 Where will Elizabeth look for the pineapple?	blue_bathtub	1
+1 Sophia entered the crawlspace.
+2 Jayden entered the crawlspace.
+3 The lime is in the green_suitcase.
+4 Jayden exited the crawlspace.
+5 Sophia moved the lime to the blue_bathtub.
+6 Where will Jayden look for the lime?	green_suitcase	1
+1 Isla entered the kitchen.
+2 Hannah entered the kitchen.
+3 The spinach is in the green_container.
+4 Ava entered the kitchen.
+5 Ava exited the kitchen.
+6 Isla exited the kitchen.
+7 Hannah moved the spinach to the red_bathtub.
+8 Where will Isla look for the spinach?	green_container	1
+1 Ethan entered the office.
+2 Hunter entered the office.
+3 Emma entered the office.
+4 The orange is in the green_suitcase.
+5 Hunter exited the office.
+6 Emma exited the office.
+7 Ethan moved the orange to the blue_drawer.
+8 Where will Emma look for the orange?	green_suitcase	1
+1 Ethan hates the corn
+2 Ethan entered the playroom.
+3 Mila entered the attic.
+4 Aiden entered the playroom.
+5 The lime is in the green_suitcase.
+6 Ethan exited the playroom.
+7 Mila exited the attic.
+8 Aiden moved the lime to the blue_suitcase.
+9 Where will Ethan look for the lime?	green_suitcase	1
+1 James entered the crawlspace.
+2 Isla entered the crawlspace.
+3 The pineapple is in the blue_crate.
+4 Isla exited the crawlspace.
+5 James moved the pineapple to the red_box.
+6 Where will Isla look for the pineapple?	blue_crate	1
+1 Ethan entered the dining_room.
+2 Emma dislikes the persimmon
+3 Emma entered the workshop.
+4 Isabella entered the workshop.
+5 Ethan exited the dining_room.
+6 The tangerine is in the green_bathtub.
+7 Isabella exited the workshop.
+8 Emma moved the tangerine to the red_box.
+9 Where will Isabella look for the tangerine?	green_bathtub	1
+1 Jack entered the sunroom.
+2 Oliver loves the peach
+3 Ava entered the sunroom.
+4 Oliver entered the sunroom.
+5 Jack loves the radish
+6 The corn is in the red_crate.
+7 Oliver exited the sunroom.
+8 Ava moved the corn to the blue_container.
+9 Ava exited the sunroom.
+10 Jack exited the sunroom.
+11 Oliver entered the bathroom.
+12 Where will Oliver look for the corn?	red_crate	1
+1 Nathan entered the porch.
+2 Jackson entered the porch.
+3 Aiden entered the porch.
+4 The tomato is in the green_treasure_chest.
+5 Nathan exited the porch.
+6 Aiden exited the porch.
+7 Jackson moved the tomato to the blue_container.
+8 Jackson likes the cucumber
+9 Where will Aiden look for the tomato?	green_treasure_chest	1
+1 Jack entered the cellar.
+2 Hannah is in the cellar.
+3 Lucas entered the cellar.
+4 Jack loves the asparagus
+5 The tangerine is in the blue_basket.
+6 Jack exited the cellar.
+7 Hannah moved the tangerine to the blue_box.
+8 Jack dislikes the potato
+9 Where will Jack look for the tangerine?	blue_basket	1
+1 Jack entered the crawlspace.
+2 Mason entered the crawlspace.
+3 The grapes is in the green_drawer.
+4 Ella entered the patio.
+5 Mason exited the crawlspace.
+6 Jack moved the grapes to the green_crate.
+7 Jack exited the crawlspace.
+8 Mason entered the patio.
+9 Where will Mason look for the grapes?	green_drawer	1
+1 Jayden entered the hallway.
+2 James entered the master_bedroom.
+3 William entered the master_bedroom.
+4 The lime is in the blue_container.
+5 James exited the master_bedroom.
+6 William moved the lime to the blue_basket.
+7 James entered the hallway.
+8 Where will James look for the lime?	blue_container	1
+1 Alexander entered the den.
+2 Abigail entered the den.
+3 The sweet_potato is in the green_box.
+4 Alexander exited the den.
+5 Abigail moved the sweet_potato to the green_bathtub.
+6 Alexander dislikes the strawberry
+7 Where will Alexander look for the sweet_potato?	green_box	1
+1 Hannah entered the lounge.
+2 Mila entered the lounge.
+3 Hannah loves the persimmon
+4 The tomato is in the blue_pantry.
+5 Abigail loves the asparagus
+6 Abigail entered the back_yard.
+7 Hannah exited the lounge.
+8 Mila moved the tomato to the green_bottle.
+9 Where will Hannah look for the tomato?	blue_pantry	1
+1 Olivia entered the office.
+2 Lucas entered the office.
+3 Hunter entered the office.
+4 The plum is in the blue_basket.
+5 Olivia exited the office.
+6 Lucas moved the plum to the green_basket.
+7 Where will Olivia look for the plum?	blue_basket	1
+1 Charlotte entered the back_yard.
+2 Elizabeth dislikes the grapefruit
+3 Elizabeth entered the back_yard.
+4 The broccoli is in the blue_bottle.
+5 Mason entered the back_yard.
+6 Elizabeth exited the back_yard.
+7 Mason dislikes the eggplant
+8 Charlotte moved the broccoli to the green_treasure_chest.
+9 Where will Elizabeth look for the broccoli?	blue_bottle	1
+1 Avery dislikes the beans
+2 Avery entered the basement.
+3 Aria entered the closet.
+4 Aiden entered the basement.
+5 Aria exited the closet.
+6 The sweet_potato is in the blue_pantry.
+7 Avery exited the basement.
+8 Aiden moved the sweet_potato to the green_bottle.
+9 Where will Avery look for the sweet_potato?	blue_pantry	1
+1 Noah entered the hallway.
+2 Carter entered the hallway.
+3 The potato is in the red_bucket.
+4 Noah exited the hallway.
+5 Carter moved the potato to the blue_box.
+6 Where will Noah look for the potato?	red_bucket	1
+1 Emily entered the crawlspace.
+2 Owen entered the crawlspace.
+3 Owen loves the apple
+4 The onion is in the green_bathtub.
+5 Ethan loves the asparagus
+6 Emily exited the crawlspace.
+7 Owen moved the onion to the green_container.
+8 Where will Emily look for the onion?	green_bathtub	1
+1 Benjamin is in the porch.
+2 Charlotte entered the porch.
+3 The celery is in the blue_cupboard.
+4 Elizabeth hates the watermelon
+5 Charlotte exited the porch.
+6 Benjamin moved the celery to the green_container.
+7 Where will Charlotte look for the celery?	blue_cupboard	1
+1 Ella entered the patio.
+2 Noah entered the kitchen.
+3 Noah exited the kitchen.
+4 Hunter entered the patio.
+5 The turnip is in the red_drawer.
+6 Hunter exited the patio.
+7 Ella moved the turnip to the blue_envelope.
+8 Where will Hunter look for the turnip?	red_drawer	1
+1 Emma likes the banana
+2 Jack entered the garden.
+3 Emma entered the garden.
+4 The lettuce is in the blue_suitcase.
+5 Emma exited the garden.
+6 Jack moved the lettuce to the green_bathtub.
+7 Where will Emma look for the lettuce?	blue_suitcase	1
+1 Amelia entered the den.
+2 Emma entered the den.
+3 Jayden entered the den.
+4 Amelia exited the den.
+5 The potato is in the green_bucket.
+6 Jayden exited the den.
+7 Emma moved the potato to the green_envelope.
+8 Where will Jayden look for the potato?	green_bucket	1
+1 Mia entered the master_bedroom.
+2 Oliver entered the master_bedroom.
+3 The onion is in the red_suitcase.
+4 William entered the bathroom.
+5 Mia exited the master_bedroom.
+6 Oliver moved the onion to the red_envelope.
+7 Where will Mia look for the onion?	red_suitcase	1
+1 Alexander entered the TV_room.
+2 Ava entered the TV_room.
+3 The apple is in the blue_suitcase.
+4 Alexander exited the TV_room.
+5 Ava moved the apple to the green_crate.
+6 Where will Alexander look for the apple?	blue_suitcase	1
+1 Liam entered the cellar.
+2 Liam likes the banana
+3 Oliver entered the cellar.
+4 Oliver loves the pear
+5 The corn is in the blue_basket.
+6 Liam exited the cellar.
+7 Oliver moved the corn to the blue_container.
+8 Where will Liam look for the corn?	blue_basket	1
+1 Emma entered the living_room.
+2 Evelyn entered the living_room.
+3 Ella hates the persimmon
+4 The cabbage is in the red_envelope.
+5 Evelyn exited the living_room.
+6 Emma moved the cabbage to the green_envelope.
+7 Evelyn entered the lounge.
+8 Evelyn likes the cucumber
+9 Where will Evelyn look for the cabbage?	red_envelope	1
+1 Logan entered the workshop.
+2 Lily entered the workshop.
+3 The lemon is in the green_box.
+4 Lily exited the workshop.
+5 Logan moved the lemon to the green_drawer.
+6 Where will Lily look for the lemon?	green_box	1
+1 Mia loves the persimmon
+2 Nathan entered the front_yard.
+3 Hunter entered the front_yard.
+4 The grapefruit is in the red_crate.
+5 Hunter exited the front_yard.
+6 Mia entered the front_yard.
+7 Nathan moved the grapefruit to the red_bathtub.
+8 Nathan exited the front_yard.
+9 Hunter loves the beans
+10 Mia exited the front_yard.
+11 Hunter entered the hall.
+12 Where will Hunter look for the grapefruit?	red_crate	1
+1 Owen entered the kitchen.
+2 Mason entered the kitchen.
+3 The cucumber is in the blue_suitcase.
+4 Mason exited the kitchen.
+5 Owen moved the cucumber to the green_envelope.
+6 Where will Mason look for the cucumber?	blue_suitcase	1
+1 Alexander entered the garden.
+2 Logan entered the garden.
+3 The cherry is in the blue_box.
+4 Logan dislikes the turnip
+5 Alexander exited the garden.
+6 Logan moved the cherry to the blue_envelope.
+7 Where will Alexander look for the cherry?	blue_box	1
+1 Aiden entered the back_yard.
+2 Lily entered the back_yard.
+3 Aiden loves the onion
+4 Hunter entered the bedroom.
+5 Hunter loves the melon
+6 Hunter exited the bedroom.
+7 The pear is in the blue_pantry.
+8 Aiden exited the back_yard.
+9 Lily moved the pear to the red_pantry.
+10 Where will Aiden look for the pear?	blue_pantry	1
+1 Oliver entered the patio.
+2 Owen entered the sunroom.
+3 Oliver hates the grapes
+4 Lucas entered the sunroom.
+5 Oliver exited the patio.
+6 The spinach is in the blue_drawer.
+7 Owen exited the sunroom.
+8 Owen loves the pear
+9 Lucas moved the spinach to the red_envelope.
+10 Where will Owen look for the spinach?	blue_drawer	1
+1 Isla entered the crawlspace.
+2 Owen entered the crawlspace.
+3 Isabella entered the crawlspace.
+4 The tomato is in the red_bottle.
+5 Isla exited the crawlspace.
+6 Isabella moved the tomato to the green_pantry.
+7 Where will Isla look for the tomato?	red_bottle	1
+1 Elizabeth entered the attic.
+2 Jayden entered the attic.
+3 The green_pepper is in the blue_envelope.
+4 Elizabeth exited the attic.
+5 Mila entered the bathroom.
+6 Mila exited the bathroom.
+7 Jayden moved the green_pepper to the green_container.
+8 Where will Elizabeth look for the green_pepper?	blue_envelope	1
+1 Sophia entered the front_yard.
+2 Isla loves the peas
+3 Isla entered the front_yard.
+4 The onion is in the red_treasure_chest.
+5 Emma dislikes the cucumber
+6 Isla exited the front_yard.
+7 Sophia moved the onion to the red_cupboard.
+8 Where will Isla look for the onion?	red_treasure_chest	1
+1 Emma entered the garden.
+2 Mia entered the garden.
+3 The green_pepper is in the blue_cupboard.
+4 Logan loves the potato
+5 Mia exited the garden.
+6 Emma moved the green_pepper to the green_pantry.
+7 Emma exited the garden.
+8 Mia entered the lounge.
+9 Where will Mia look for the green_pepper?	blue_cupboard	1
+1 Charlotte entered the pantry.
+2 Jayden entered the pantry.
+3 Olivia dislikes the apple
+4 The broccoli is in the blue_bottle.
+5 Charlotte exited the pantry.
+6 Jayden moved the broccoli to the blue_treasure_chest.
+7 Olivia entered the TV_room.
+8 Where will Charlotte look for the broccoli?	blue_bottle	1
+1 Chloe entered the study.
+2 Carter entered the front_yard.
+3 Jack entered the front_yard.
+4 The potato is in the blue_pantry.
+5 Chloe exited the study.
+6 Carter exited the front_yard.
+7 Jack moved the potato to the green_bottle.
+8 Where will Carter look for the potato?	blue_pantry	1
+1 Amelia entered the office.
+2 Mila entered the office.
+3 The celery is in the green_suitcase.
+4 Mila exited the office.
+5 Amelia moved the celery to the red_bottle.
+6 Mila entered the back_yard.
+7 Where will Mila look for the celery?	green_suitcase	1
+1 Chloe entered the basement.
+2 Owen entered the basement.
+3 The grapefruit is in the green_envelope.
+4 Owen exited the basement.
+5 Chloe moved the grapefruit to the green_drawer.
+6 Where will Owen look for the grapefruit?	green_envelope	1
+1 Nathan entered the lounge.
+2 Avery entered the lounge.
+3 The grapes is in the red_bucket.
+4 Avery exited the lounge.
+5 Nathan hates the radish
+6 Nathan moved the grapes to the green_cupboard.
+7 Where will Avery look for the grapes?	red_bucket	1
+1 Chloe entered the dining_room.
+2 Elizabeth entered the dining_room.
+3 Elizabeth exited the dining_room.
+4 Sophia entered the dining_room.
+5 The cucumber is in the red_suitcase.
+6 Chloe exited the dining_room.
+7 Sophia moved the cucumber to the blue_drawer.
+8 Where will Chloe look for the cucumber?	red_suitcase	1
+1 Chloe hates the melon
+2 Carter entered the dining_room.
+3 Lily entered the playroom.
+4 Chloe entered the playroom.
+5 The tangerine is in the blue_drawer.
+6 Lily hates the lettuce
+7 Chloe exited the playroom.
+8 Lily moved the tangerine to the blue_box.
+9 Where will Chloe look for the tangerine?	blue_drawer	1
+1 Logan entered the pantry.
+2 Aiden entered the pantry.
+3 The grapefruit is in the blue_box.
+4 Aiden exited the pantry.
+5 Logan moved the grapefruit to the blue_pantry.
+6 Logan exited the pantry.
+7 Lucas entered the porch.
+8 Aiden entered the porch.
+9 Where will Aiden look for the grapefruit?	blue_box	1
+1 Noah entered the living_room.
+2 Aria entered the living_room.
+3 The lemon is in the green_treasure_chest.
+4 Chloe hates the spinach
+5 Aria exited the living_room.
+6 Noah moved the lemon to the blue_bathtub.
+7 Aria hates the eggplant
+8 Aria entered the kitchen.
+9 Where will Aria look for the lemon?	green_treasure_chest	1
+1 Jacob entered the bathroom.
+2 Aria entered the garage.
+3 Amelia entered the garage.
+4 Jacob exited the bathroom.
+5 Amelia hates the lettuce
+6 The lime is in the red_basket.
+7 Amelia exited the garage.
+8 Aria moved the lime to the green_treasure_chest.
+9 Where will Amelia look for the lime?	red_basket	1
+1 Oliver entered the back_yard.
+2 Lily hates the melon
+3 Lily entered the bathroom.
+4 James likes the carrot
+5 Oliver exited the back_yard.
+6 James entered the bathroom.
+7 The strawberry is in the red_bottle.
+8 James exited the bathroom.
+9 Lily moved the strawberry to the blue_cupboard.
+10 Where will James look for the strawberry?	red_bottle	1
+1 William entered the back_yard.
+2 Emily likes the eggplant
+3 Chloe entered the back_yard.
+4 The lime is in the red_bottle.
+5 William exited the back_yard.
+6 Chloe moved the lime to the red_suitcase.
+7 Where will William look for the lime?	red_bottle	1
+1 Charlotte entered the pantry.
+2 Ella entered the pantry.
+3 The orange is in the green_bucket.
+4 Hannah entered the pantry.
+5 Ella exited the pantry.
+6 Charlotte moved the orange to the blue_bottle.
+7 Where will Ella look for the orange?	green_bucket	1
+1 Avery entered the bathroom.
+2 Aiden entered the bathroom.
+3 Aiden likes the broccoli
+4 Noah entered the staircase.
+5 The grapes is in the blue_basket.
+6 Avery exited the bathroom.
+7 Aiden moved the grapes to the blue_drawer.
+8 Where will Avery look for the grapes?	blue_basket	1
+1 Hannah loves the carrot
+2 Lucas entered the hallway.
+3 Hannah entered the hallway.
+4 Hannah hates the tomato
+5 The radish is in the green_crate.
+6 Avery entered the hallway.
+7 Lucas exited the hallway.
+8 Hannah moved the radish to the red_bathtub.
+9 Where will Lucas look for the radish?	green_crate	1
+1 Ethan entered the front_yard.
+2 Hannah is in the front_yard.
+3 The spinach is in the blue_container.
+4 Ella dislikes the eggplant
+5 Ella entered the front_yard.
+6 Ethan exited the front_yard.
+7 Ella exited the front_yard.
+8 Hannah moved the spinach to the blue_bathtub.
+9 Where will Ethan look for the spinach?	blue_container	1
+1 Logan entered the hallway.
+2 Logan dislikes the grapes
+3 Jackson entered the hallway.
+4 The grapefruit is in the blue_box.
+5 Jackson exited the hallway.
+6 Logan moved the grapefruit to the blue_bottle.
+7 Jackson entered the garage.
+8 Noah entered the garage.
+9 Logan hates the carrot
+10 Where will Jackson look for the grapefruit?	blue_box	1
+1 Hunter loves the lime
+2 Noah entered the dining_room.
+3 Noah hates the onion
+4 Logan entered the crawlspace.
+5 Logan exited the crawlspace.
+6 Hunter entered the dining_room.
+7 The lettuce is in the blue_pantry.
+8 Hunter exited the dining_room.
+9 Noah moved the lettuce to the blue_envelope.
+10 Hunter entered the crawlspace.
+11 Where will Hunter look for the lettuce?	blue_pantry	1
+1 Ella entered the basement.
+2 Chloe entered the basement.
+3 The corn is in the blue_drawer.
+4 Avery entered the basement.
+5 Ella exited the basement.
+6 Avery exited the basement.
+7 Chloe moved the corn to the green_crate.
+8 Chloe likes the pumpkin
+9 Where will Ella look for the corn?	blue_drawer	1
+1 Avery entered the TV_room.
+2 Avery exited the TV_room.
+3 Owen likes the radish
+4 Owen entered the TV_room.
+5 Oliver entered the TV_room.
+6 The lemon is in the green_bathtub.
+7 Owen exited the TV_room.
+8 Oliver moved the lemon to the blue_bathtub.
+9 Where will Owen look for the lemon?	green_bathtub	1
+1 Isla entered the dining_room.
+2 Isla loves the cabbage
+3 Jacob entered the dining_room.
+4 The apple is in the green_bucket.
+5 Jacob exited the dining_room.
+6 Isla moved the apple to the red_pantry.
+7 Where will Jacob look for the apple?	green_bucket	1
+1 Alexander entered the attic.
+2 Owen entered the attic.
+3 The grapes is in the green_box.
+4 Alexander hates the lemon
+5 Alexander exited the attic.
+6 Owen moved the grapes to the green_basket.
+7 Where will Alexander look for the grapes?	green_box	1
+1 Chloe entered the cellar.
+2 Abigail entered the cellar.
+3 The celery is in the green_treasure_chest.
+4 Chloe dislikes the spinach
+5 Abigail exited the cellar.
+6 Chloe moved the celery to the blue_suitcase.
+7 Where will Abigail look for the celery?	green_treasure_chest	1
+1 Lily entered the den.
+2 Emma entered the den.
+3 Charlotte entered the den.
+4 Emma loves the tangerine
+5 The beans is in the blue_basket.
+6 Charlotte exited the den.
+7 Emma moved the beans to the blue_bucket.
+8 Where will Charlotte look for the beans?	blue_basket	1
+1 Mila entered the bedroom.
+2 Ava entered the bedroom.
+3 Avery entered the bedroom.
+4 Mila dislikes the peas
+5 Mila exited the bedroom.
+6 The sweet_potato is in the red_crate.
+7 Ava exited the bedroom.
+8 Avery moved the sweet_potato to the blue_container.
+9 Where will Ava look for the sweet_potato?	red_crate	1
+1 Aiden entered the patio.
+2 Mia entered the patio.
+3 The cabbage is in the red_suitcase.
+4 Lily entered the attic.
+5 Aiden exited the patio.
+6 Mia moved the cabbage to the green_envelope.
+7 Lily exited the attic.
+8 Mia exited the patio.
+9 Aiden entered the attic.
+10 Where will Aiden look for the cabbage?	red_suitcase	1
+1 Benjamin entered the kitchen.
+2 Olivia entered the kitchen.
+3 Isla entered the kitchen.
+4 The green_pepper is in the red_envelope.
+5 Benjamin exited the kitchen.
+6 Isla moved the green_pepper to the green_bucket.
+7 Where will Benjamin look for the green_pepper?	red_envelope	1
+1 Mason entered the patio.
+2 Avery entered the patio.
+3 William entered the kitchen.
+4 The tangerine is in the green_bucket.
+5 Mason exited the patio.
+6 Avery moved the tangerine to the green_treasure_chest.
+7 Where will Mason look for the tangerine?	green_bucket	1
+1 Olivia entered the pantry.
+2 James entered the pantry.
+3 The strawberry is in the green_box.
+4 Olivia likes the grapes
+5 James exited the pantry.
+6 Nathan entered the basement.
+7 Olivia moved the strawberry to the red_bathtub.
+8 Where will James look for the strawberry?	green_box	1
+1 Owen entered the attic.
+2 Abigail likes the strawberry
+3 Abigail entered the attic.
+4 The watermelon is in the red_bathtub.
+5 Abigail exited the attic.
+6 Owen moved the watermelon to the green_envelope.
+7 Mila hates the peach
+8 Mila entered the sunroom.
+9 Abigail entered the sunroom.
+10 Where will Abigail look for the watermelon?	red_bathtub	1
+1 Hannah entered the TV_room.
+2 Liam entered the TV_room.
+3 The peas is in the red_envelope.
+4 Hannah exited the TV_room.
+5 Mia entered the TV_room.
+6 Liam moved the peas to the green_bucket.
+7 Liam exited the TV_room.
+8 Hannah entered the bedroom.
+9 Where will Hannah look for the peas?	red_envelope	1
+1 Mia entered the hall.
+2 Mila entered the garden.
+3 Alexander entered the hall.
+4 The sweet_potato is in the red_envelope.
+5 Alexander exited the hall.
+6 Mia moved the sweet_potato to the red_treasure_chest.
+7 Where will Alexander look for the sweet_potato?	red_envelope	1
+1 Nathan loves the radish
+2 Olivia entered the laundry.
+3 Nathan entered the laundry.
+4 The eggplant is in the green_treasure_chest.
+5 Olivia exited the laundry.
+6 Abigail entered the laundry.
+7 Nathan moved the eggplant to the green_envelope.
+8 Where will Olivia look for the eggplant?	green_treasure_chest	1
+1 Jack entered the front_yard.
+2 Avery is in the front_yard.
+3 The carrot is in the red_treasure_chest.
+4 Jack exited the front_yard.
+5 Alexander entered the crawlspace.
+6 Avery moved the carrot to the green_drawer.
+7 Where will Jack look for the carrot?	red_treasure_chest	1
+1 Aria entered the den.
+2 Oliver entered the den.
+3 Lucas entered the den.
+4 Oliver likes the apple
+5 The banana is in the blue_container.
+6 Aria exited the den.
+7 Oliver moved the banana to the red_bucket.
+8 Oliver exited the den.
+9 Lucas exited the den.
+10 Aria entered the basement.
+11 Where will Aria look for the banana?	blue_container	1
+1 Lily entered the patio.
+2 Benjamin entered the patio.
+3 The banana is in the red_crate.
+4 Lily exited the patio.
+5 Chloe entered the patio.
+6 Benjamin moved the banana to the blue_bucket.
+7 Where will Lily look for the banana?	red_crate	1
+1 Chloe entered the den.
+2 Jacob entered the den.
+3 Isla likes the melon
+4 Isla entered the den.
+5 The eggplant is in the red_pantry.
+6 Isla exited the den.
+7 Jacob moved the eggplant to the blue_basket.
+8 Where will Isla look for the eggplant?	red_pantry	1
+1 Nathan entered the bathroom.
+2 Lily entered the bathroom.
+3 Elizabeth entered the bathroom.
+4 The grapefruit is in the blue_box.
+5 Lily hates the spinach
+6 Elizabeth exited the bathroom.
+7 Nathan moved the grapefruit to the blue_bathtub.
+8 Nathan dislikes the pumpkin
+9 Where will Elizabeth look for the grapefruit?	blue_box	1
+1 Evelyn entered the study.
+2 Logan hates the broccoli
+3 Lucas entered the playroom.
+4 Logan entered the playroom.
+5 Lucas loves the corn
+6 The strawberry is in the red_basket.
+7 Logan exited the playroom.
+8 Lucas moved the strawberry to the blue_treasure_chest.
+9 Where will Logan look for the strawberry?	red_basket	1
+1 Mia entered the staircase.
+2 Emily entered the staircase.
+3 The strawberry is in the red_pantry.
+4 Emily exited the staircase.
+5 Emily hates the corn
+6 Mia moved the strawberry to the blue_pantry.
+7 Jacob entered the staircase.
+8 Where will Emily look for the strawberry?	red_pantry	1
+1 Ethan entered the bathroom.
+2 Ethan hates the cucumber
+3 Carter entered the pantry.
+4 Avery entered the pantry.
+5 Ethan exited the bathroom.
+6 The pumpkin is in the red_bathtub.
+7 Avery exited the pantry.
+8 Carter moved the pumpkin to the red_cupboard.
+9 Ethan likes the carrot
+10 Where will Avery look for the pumpkin?	red_bathtub	1
+1 Mila entered the sunroom.
+2 Jackson is in the sunroom.
+3 The persimmon is in the blue_container.
+4 Mila exited the sunroom.
+5 Jackson moved the persimmon to the green_cupboard.
+6 Mila hates the potato
+7 Where will Mila look for the persimmon?	blue_container	1
+1 Owen hates the turnip
+2 Avery entered the basement.
+3 Isabella entered the basement.
+4 The apple is in the blue_crate.
+5 Avery exited the basement.
+6 Isabella moved the apple to the red_bottle.
+7 Where will Avery look for the apple?	blue_crate	1
+1 Jack loves the tomato
+2 Avery entered the bathroom.
+3 Jack entered the bathroom.
+4 Ethan entered the bathroom.
+5 Avery loves the asparagus
+6 The lemon is in the red_envelope.
+7 Jack exited the bathroom.
+8 Avery exited the bathroom.
+9 Ethan moved the lemon to the blue_bottle.
+10 Where will Avery look for the lemon?	red_envelope	1
+1 Elizabeth entered the workshop.
+2 Benjamin entered the workshop.
+3 The tomato is in the blue_cupboard.
+4 Benjamin exited the workshop.
+5 Elizabeth moved the tomato to the green_drawer.
+6 Benjamin entered the hallway.
+7 Noah entered the hallway.
+8 Noah likes the orange
+9 Where will Benjamin look for the tomato?	blue_cupboard	1
+1 Jacob entered the lounge.
+2 Emma entered the lounge.
+3 Abigail entered the lounge.
+4 The apple is in the red_envelope.
+5 Jacob dislikes the potato
+6 Emma loves the persimmon
+7 Abigail exited the lounge.
+8 Emma moved the apple to the red_basket.
+9 Where will Abigail look for the apple?	red_envelope	1
+1 Ethan entered the sunroom.
+2 Noah entered the sunroom.
+3 Logan entered the pantry.
+4 Logan exited the pantry.
+5 Ethan dislikes the turnip
+6 The lettuce is in the blue_box.
+7 Logan dislikes the corn
+8 Noah exited the sunroom.
+9 Ethan moved the lettuce to the blue_treasure_chest.
+10 Where will Noah look for the lettuce?	blue_box	1
+1 Mila entered the lounge.
+2 Alexander entered the lounge.
+3 William entered the lounge.
+4 Mila exited the lounge.
+5 The radish is in the red_box.
+6 William exited the lounge.
+7 Alexander moved the radish to the blue_box.
+8 Alexander exited the lounge.
+9 William entered the attic.
+10 Where will William look for the radish?	red_box	1
+1 Ella entered the master_bedroom.
+2 Aiden entered the master_bedroom.
+3 The radish is in the green_envelope.
+4 Aiden likes the pineapple
+5 Ella exited the master_bedroom.
+6 Aiden moved the radish to the red_drawer.
+7 Aria entered the den.
+8 Aiden exited the master_bedroom.
+9 Ella entered the den.
+10 Where will Ella look for the radish?	green_envelope	1
+1 Isabella entered the pantry.
+2 Emily entered the pantry.
+3 Jack entered the pantry.
+4 The strawberry is in the blue_container.
+5 Jack exited the pantry.
+6 Isabella moved the strawberry to the green_drawer.
+7 Isabella exited the pantry.
+8 Emily exited the pantry.
+9 Jack entered the closet.
+10 Where will Jack look for the strawberry?	blue_container	1
+1 Lily dislikes the peas
+2 Sophia hates the radish
+3 Charlotte entered the staircase.
+4 Lily entered the staircase.
+5 The lime is in the blue_basket.
+6 Charlotte exited the staircase.
+7 Lily moved the lime to the red_cupboard.
+8 Lily exited the staircase.
+9 Charlotte entered the front_yard.
+10 Sophia entered the front_yard.
+11 Where will Charlotte look for the lime?	blue_basket	1
+1 Jackson entered the pantry.
+2 Mia entered the pantry.
+3 The radish is in the red_drawer.
+4 Mia exited the pantry.
+5 Jackson moved the radish to the blue_drawer.
+6 Jackson exited the pantry.
+7 Mia entered the staircase.
+8 Where will Mia look for the radish?	red_drawer	1
+1 Charlotte entered the laundry.
+2 Ethan is in the laundry.
+3 The carrot is in the blue_basket.
+4 Charlotte exited the laundry.
+5 Ethan moved the carrot to the red_container.
+6 Ethan exited the laundry.
+7 Mason entered the cellar.
+8 Mason exited the cellar.
+9 Charlotte entered the cellar.
+10 Where will Charlotte look for the carrot?	blue_basket	1
+1 Nathan entered the back_yard.
+2 Ethan entered the back_yard.
+3 The asparagus is in the green_basket.
+4 Ethan exited the back_yard.
+5 Jayden entered the back_yard.
+6 Nathan moved the asparagus to the blue_treasure_chest.
+7 Nathan exited the back_yard.
+8 Ethan entered the porch.
+9 Where will Ethan look for the asparagus?	green_basket	1
+1 Sophia entered the TV_room.
+2 Noah entered the TV_room.
+3 Benjamin entered the TV_room.
+4 The cherry is in the green_box.
+5 Sophia exited the TV_room.
+6 Noah moved the cherry to the red_bathtub.
+7 Sophia loves the spinach
+8 Noah exited the TV_room.
+9 Benjamin exited the TV_room.
+10 Sophia entered the cellar.
+11 Where will Sophia look for the cherry?	green_box	1
+1 Oliver entered the office.
+2 Jack entered the TV_room.
+3 Emma entered the TV_room.
+4 The watermelon is in the green_pantry.
+5 Jack exited the TV_room.
+6 Emma moved the watermelon to the green_box.
+7 Emma exited the TV_room.
+8 Jack entered the office.
+9 Where will Jack look for the watermelon?	green_pantry	1
+1 Hannah entered the study.
+2 Hannah loves the cabbage
+3 Isabella entered the study.
+4 Hannah loves the strawberry
+5 The pear is in the blue_bathtub.
+6 Alexander entered the living_room.
+7 Hannah exited the study.
+8 Isabella moved the pear to the red_envelope.
+9 Isabella exited the study.
+10 Hannah entered the living_room.
+11 Where will Hannah look for the pear?	blue_bathtub	1
+1 Carter entered the laundry.
+2 Jackson entered the laundry.
+3 Hannah entered the laundry.
+4 The peach is in the blue_container.
+5 Jackson exited the laundry.
+6 Carter moved the peach to the red_box.
+7 Carter exited the laundry.
+8 Jackson entered the porch.
+9 Where will Jackson look for the peach?	blue_container	1
+1 Olivia entered the bedroom.
+2 Jackson entered the bedroom.
+3 Lucas entered the bedroom.
+4 The carrot is in the blue_box.
+5 Olivia exited the bedroom.
+6 Lucas dislikes the melon
+7 Lucas moved the carrot to the blue_cupboard.
+8 Lucas hates the sweet_potato
+9 Lucas exited the bedroom.
+10 Olivia entered the lounge.
+11 Where will Olivia look for the carrot?	blue_box	1
+1 Avery entered the bathroom.
+2 Liam entered the bathroom.
+3 Evelyn is in the bathroom.
+4 The beans is in the red_treasure_chest.
+5 Evelyn exited the bathroom.
+6 Avery exited the bathroom.
+7 Avery loves the persimmon
+8 Liam dislikes the tangerine
+9 Liam moved the beans to the red_cupboard.
+10 Liam exited the bathroom.
+11 Evelyn entered the dining_room.
+12 Where will Evelyn look for the beans?	red_treasure_chest	1
+1 Ava entered the laundry.
+2 Mila entered the laundry.
+3 William entered the laundry.
+4 William likes the cherry
+5 The turnip is in the green_treasure_chest.
+6 Ava exited the laundry.
+7 Mila exited the laundry.
+8 William moved the turnip to the green_crate.
+9 William exited the laundry.
+10 Ava dislikes the beans
+11 Ava entered the playroom.
+12 Where will Ava look for the turnip?	green_treasure_chest	1
+1 Logan entered the workshop.
+2 Isabella dislikes the persimmon
+3 William hates the apple
+4 Isabella entered the workshop.
+5 William entered the workshop.
+6 The eggplant is in the blue_cupboard.
+7 Isabella exited the workshop.
+8 Logan exited the workshop.
+9 William moved the eggplant to the blue_pantry.
+10 William exited the workshop.
+11 Logan entered the lounge.
+12 Where will Logan look for the eggplant?	blue_cupboard	1
+1 Noah entered the laundry.
+2 Amelia entered the laundry.
+3 Emily hates the green_pepper
+4 The cucumber is in the blue_container.
+5 Emily entered the garden.
+6 Noah exited the laundry.
+7 Amelia dislikes the pumpkin
+8 Amelia moved the cucumber to the green_box.
+9 Amelia exited the laundry.
+10 Noah entered the garden.
+11 Where will Noah look for the cucumber?	blue_container	1
+1 Avery entered the garage.
+2 Ava entered the garage.
+3 Ava dislikes the grapes
+4 Isabella loves the orange
+5 The melon is in the green_bathtub.
+6 Avery exited the garage.
+7 Ava moved the melon to the blue_pantry.
+8 Ava exited the garage.
+9 Avery entered the porch.
+10 Where will Avery look for the melon?	green_bathtub	1
+1 Emma entered the garden.
+2 Carter entered the pantry.
+3 Ella entered the pantry.
+4 Emma hates the broccoli
+5 The carrot is in the green_envelope.
+6 Carter exited the pantry.
+7 Ella moved the carrot to the blue_basket.
+8 Ella exited the pantry.
+9 Carter entered the garden.
+10 Where will Carter look for the carrot?	green_envelope	1
+1 Avery likes the orange
+2 Emily entered the kitchen.
+3 Avery entered the kitchen.
+4 The cucumber is in the red_bathtub.
+5 Emily exited the kitchen.
+6 Avery moved the cucumber to the red_cupboard.
+7 Avery exited the kitchen.
+8 Emily entered the staircase.
+9 Where will Emily look for the cucumber?	red_bathtub	1
+1 Abigail entered the crawlspace.
+2 Aria entered the crawlspace.
+3 Hannah entered the patio.
+4 The tangerine is in the red_drawer.
+5 Abigail exited the crawlspace.
+6 Aria moved the tangerine to the red_suitcase.
+7 Aria exited the crawlspace.
+8 Aria likes the grapefruit
+9 Hannah exited the patio.
+10 Abigail entered the patio.
+11 Where will Abigail look for the tangerine?	red_drawer	1
+1 Amelia entered the sunroom.
+2 Emma entered the sunroom.
+3 The potato is in the blue_envelope.
+4 Amelia exited the sunroom.
+5 Emma moved the potato to the green_bottle.
+6 Emma exited the sunroom.
+7 Amelia entered the dining_room.
+8 Where will Amelia look for the potato?	blue_envelope	1
+1 Amelia entered the crawlspace.
+2 Hunter entered the crawlspace.
+3 Hunter dislikes the tomato
+4 Owen entered the crawlspace.
+5 The onion is in the green_envelope.
+6 Hunter exited the crawlspace.
+7 Amelia exited the crawlspace.
+8 Owen moved the onion to the red_envelope.
+9 Owen exited the crawlspace.
+10 Owen likes the tomato
+11 Hunter entered the cellar.
+12 Where will Hunter look for the onion?	green_envelope	1
+1 Ava entered the patio.
+2 Nathan entered the patio.
+3 The potato is in the blue_bathtub.
+4 Nathan exited the patio.
+5 Ava moved the potato to the red_suitcase.
+6 Ava exited the patio.
+7 Nathan entered the garage.
+8 Nathan dislikes the lettuce
+9 Where will Nathan look for the potato?	blue_bathtub	1
+1 Carter entered the den.
+2 Hannah entered the back_yard.
+3 Nathan entered the den.
+4 Hannah loves the pear
+5 Hannah exited the back_yard.
+6 The tomato is in the green_basket.
+7 Nathan exited the den.
+8 Carter moved the tomato to the blue_envelope.
+9 Carter exited the den.
+10 Nathan loves the apple
+11 Nathan entered the back_yard.
+12 Where will Nathan look for the tomato?	green_basket	1
+1 Amelia entered the porch.
+2 Lily entered the porch.
+3 Elizabeth likes the tomato
+4 Elizabeth entered the playroom.
+5 The orange is in the green_cupboard.
+6 Elizabeth exited the playroom.
+7 Lily exited the porch.
+8 Amelia moved the orange to the blue_basket.
+9 Amelia exited the porch.
+10 Lily entered the playroom.
+11 Where will Lily look for the orange?	green_cupboard	1
+1 Owen entered the garage.
+2 William entered the garage.
+3 Olivia loves the persimmon
+4 The corn is in the green_suitcase.
+5 William exited the garage.
+6 William dislikes the celery
+7 Owen moved the corn to the red_suitcase.
+8 Owen exited the garage.
+9 William entered the bedroom.
+10 Where will William look for the corn?	green_suitcase	1
+1 Aiden hates the beans
+2 Aiden entered the laundry.
+3 Alexander entered the laundry.
+4 Alexander dislikes the peach
+5 The radish is in the green_envelope.
+6 Alexander exited the laundry.
+7 Aiden moved the radish to the blue_bottle.
+8 Aiden exited the laundry.
+9 Alexander entered the garage.
+10 Where will Alexander look for the radish?	green_envelope	1
+1 Aria entered the study.
+2 Avery entered the study.
+3 The asparagus is in the red_box.
+4 Aria exited the study.
+5 Avery moved the asparagus to the blue_envelope.
+6 Avery exited the study.
+7 Aria entered the staircase.
+8 Where will Aria look for the asparagus?	red_box	1
+1 Olivia entered the patio.
+2 Lily entered the patio.
+3 Avery entered the patio.
+4 The cabbage is in the red_cupboard.
+5 Avery exited the patio.
+6 Lily moved the cabbage to the green_bottle.
+7 Lily exited the patio.
+8 Avery entered the pantry.
+9 Where will Avery look for the cabbage?	red_cupboard	1
+1 Isabella entered the living_room.
+2 Hunter entered the living_room.
+3 Carter loves the potato
+4 The grapefruit is in the red_treasure_chest.
+5 Hunter exited the living_room.
+6 Isabella loves the tomato
+7 Isabella moved the grapefruit to the red_bucket.
+8 Isabella exited the living_room.
+9 Hunter entered the hall.
+10 Where will Hunter look for the grapefruit?	red_treasure_chest	1
+1 Carter likes the pear
+2 Carter entered the sunroom.
+3 Isla entered the sunroom.
+4 The watermelon is in the red_suitcase.
+5 Isla exited the sunroom.
+6 Carter moved the watermelon to the green_suitcase.
+7 Carter exited the sunroom.
+8 Isla entered the TV_room.
+9 Where will Isla look for the watermelon?	red_suitcase	1
+1 Abigail entered the hallway.
+2 Ella entered the hallway.
+3 The celery is in the red_bucket.
+4 Lucas entered the hallway.
+5 Ella exited the hallway.
+6 Abigail moved the celery to the red_basket.
+7 Abigail exited the hallway.
+8 Ella entered the basement.
+9 Where will Ella look for the celery?	red_bucket	1
+1 Elizabeth entered the TV_room.
+2 Jacob entered the TV_room.
+3 Ava entered the attic.
+4 The plum is in the blue_suitcase.
+5 Jacob loves the broccoli
+6 Elizabeth exited the TV_room.
+7 Jacob loves the tomato
+8 Jacob moved the plum to the green_cupboard.
+9 Jacob exited the TV_room.
+10 Elizabeth entered the attic.
+11 Where will Elizabeth look for the plum?	blue_suitcase	1
+1 Chloe entered the study.
+2 Lucas entered the study.
+3 The lime is in the red_cupboard.
+4 Chloe exited the study.
+5 Emily entered the study.
+6 Lucas moved the lime to the blue_container.
+7 Lucas exited the study.
+8 Chloe entered the sunroom.
+9 Where will Chloe look for the lime?	red_cupboard	1
+1 Charlotte entered the playroom.
+2 Jayden entered the playroom.
+3 The peach is in the green_box.
+4 Charlotte exited the playroom.
+5 Jayden moved the peach to the blue_treasure_chest.
+6 Olivia loves the celery
+7 Jayden exited the playroom.
+8 Olivia hates the grapes
+9 Olivia entered the playroom.
+10 Charlotte entered the office.
+11 Where will Charlotte look for the peach?	green_box	1
+1 Mia entered the bathroom.
+2 Lily entered the bathroom.
+3 Logan entered the bathroom.
+4 The peas is in the red_basket.
+5 Lily exited the bathroom.
+6 Mia likes the plum
+7 Logan exited the bathroom.
+8 Mia moved the peas to the red_envelope.
+9 Mia exited the bathroom.
+10 Logan entered the garden.
+11 Where will Logan look for the peas?	red_basket	1
+1 Benjamin entered the hall.
+2 Liam entered the kitchen.
+3 Liam loves the broccoli
+4 Charlotte entered the hall.
+5 Liam exited the kitchen.
+6 Charlotte dislikes the strawberry
+7 The peas is in the red_container.
+8 Benjamin exited the hall.
+9 Charlotte moved the peas to the blue_treasure_chest.
+10 Charlotte exited the hall.
+11 Benjamin entered the kitchen.
+12 Where will Benjamin look for the peas?	red_container	1
+1 Lucas entered the pantry.
+2 Emma entered the pantry.
+3 The lemon is in the green_envelope.
+4 Emma dislikes the celery
+5 Lucas exited the pantry.
+6 Emma moved the lemon to the green_bathtub.
+7 Emma exited the pantry.
+8 Lucas entered the TV_room.
+9 Benjamin dislikes the asparagus
+10 Where will Lucas look for the lemon?	green_envelope	1
+1 Aiden entered the bathroom.
+2 Hannah dislikes the peach
+3 Hannah entered the bathroom.
+4 Noah entered the bathroom.
+5 The tangerine is in the green_treasure_chest.
+6 Hannah exited the bathroom.
+7 Aiden moved the tangerine to the red_envelope.
+8 Noah exited the bathroom.
+9 Aiden exited the bathroom.
+10 Hannah entered the sunroom.
+11 Where will Hannah look for the tangerine?	green_treasure_chest	1
+1 Alexander dislikes the eggplant
+2 Alexander entered the den.
+3 Carter entered the den.
+4 Elizabeth entered the basement.
+5 The orange is in the red_bucket.
+6 Alexander exited the den.
+7 Carter moved the orange to the green_container.
+8 Carter exited the den.
+9 Alexander entered the basement.
+10 Where will Alexander look for the orange?	red_bucket	1
+1 Aiden loves the pineapple
+2 Aiden entered the bedroom.
+3 Mila entered the bedroom.
+4 The grapefruit is in the green_container.
+5 Mila exited the bedroom.
+6 Charlotte entered the cellar.
+7 Mila dislikes the broccoli
+8 Aiden moved the grapefruit to the blue_box.
+9 Aiden exited the bedroom.
+10 Mila entered the cellar.
+11 Where will Mila look for the grapefruit?	green_container	1
+1 Isla entered the staircase.
+2 Avery entered the lounge.
+3 Jayden entered the staircase.
+4 The celery is in the red_pantry.
+5 Avery exited the lounge.
+6 Jayden exited the staircase.
+7 Isla moved the celery to the blue_box.
+8 Isla exited the staircase.
+9 Jayden entered the lounge.
+10 Where will Jayden look for the celery?	red_pantry	1
+1 Lucas entered the basement.
+2 Noah dislikes the eggplant
+3 Oliver entered the basement.
+4 The radish is in the blue_bottle.
+5 Oliver exited the basement.
+6 Lucas moved the radish to the blue_pantry.
+7 Lucas exited the basement.
+8 Oliver entered the bedroom.
+9 Where will Oliver look for the radish?	blue_bottle	1
+1 Alexander loves the green_pepper
+2 Alexander entered the porch.
+3 Liam entered the porch.
+4 The carrot is in the red_envelope.
+5 Alexander exited the porch.
+6 Liam moved the carrot to the blue_cupboard.
+7 Liam exited the porch.
+8 Alexander entered the den.
+9 Alexander loves the turnip
+10 Where will Alexander look for the carrot?	red_envelope	1
+1 Carter entered the closet.
+2 Oliver entered the closet.
+3 The lemon is in the red_drawer.
+4 Carter dislikes the pineapple
+5 Carter exited the closet.
+6 Noah hates the banana
+7 Oliver moved the lemon to the red_basket.
+8 Oliver exited the closet.
+9 Carter entered the bedroom.
+10 Where will Carter look for the lemon?	red_drawer	1
+1 Olivia entered the closet.
+2 Carter entered the closet.
+3 The lime is in the green_suitcase.
+4 Olivia exited the closet.
+5 Olivia dislikes the turnip
+6 Sophia entered the closet.
+7 Carter moved the lime to the blue_bucket.
+8 Carter exited the closet.
+9 Olivia entered the dining_room.
+10 Where will Olivia look for the lime?	green_suitcase	1
+1 Benjamin entered the workshop.
+2 Oliver entered the workshop.
+3 Isla entered the workshop.
+4 Oliver loves the tomato
+5 Benjamin exited the workshop.
+6 The peas is in the blue_box.
+7 Oliver exited the workshop.
+8 Isla moved the peas to the blue_drawer.
+9 Isla exited the workshop.
+10 Oliver loves the cucumber
+11 Oliver entered the attic.
+12 Where will Oliver look for the peas?	blue_box	1
+1 William entered the laundry.
+2 Oliver entered the laundry.
+3 The watermelon is in the red_pantry.
+4 William exited the laundry.
+5 Alexander hates the green_pepper
+6 Oliver moved the watermelon to the green_bathtub.
+7 Oliver exited the laundry.
+8 William entered the playroom.
+9 Where will William look for the watermelon?	red_pantry	1
+1 James entered the attic.
+2 Avery dislikes the peach
+3 Avery entered the attic.
+4 The peas is in the green_pantry.
+5 Avery exited the attic.
+6 James moved the peas to the green_bathtub.
+7 James exited the attic.
+8 Avery entered the porch.
+9 Where will Avery look for the peas?	green_pantry	1
+1 James entered the crawlspace.
+2 Emily entered the crawlspace.
+3 The lettuce is in the blue_pantry.
+4 James exited the crawlspace.
+5 Mila entered the crawlspace.
+6 Emily moved the lettuce to the blue_cupboard.
+7 Emily exited the crawlspace.
+8 James entered the office.
+9 Where will James look for the lettuce?	blue_pantry	1
+1 Alexander entered the study.
+2 Aria entered the study.
+3 James likes the tomato
+4 The lemon is in the green_crate.
+5 Alexander exited the study.
+6 Aria moved the lemon to the red_box.
+7 Aria exited the study.
+8 James entered the study.
+9 Alexander likes the tomato
+10 Alexander entered the dining_room.
+11 Where will Alexander look for the lemon?	green_crate	1
+1 Emma entered the cellar.
+2 Mila entered the cellar.
+3 The tomato is in the red_envelope.
+4 Emma exited the cellar.
+5 Mila moved the tomato to the blue_bathtub.
+6 Mila exited the cellar.
+7 Emma entered the back_yard.
+8 Where will Emma look for the tomato?	red_envelope	1
+1 Lucas entered the attic.
+2 Chloe entered the attic.
+3 The watermelon is in the green_pantry.
+4 Lucas exited the attic.
+5 Hannah entered the attic.
+6 Chloe dislikes the sweet_potato
+7 Chloe moved the watermelon to the blue_pantry.
+8 Chloe exited the attic.
+9 Lucas entered the bedroom.
+10 Where will Lucas look for the watermelon?	green_pantry	1
+1 Jacob entered the crawlspace.
+2 Chloe entered the crawlspace.
+3 Carter dislikes the lemon
+4 Carter is in the crawlspace.
+5 Chloe exited the crawlspace.
+6 The lettuce is in the red_pantry.
+7 Jacob exited the crawlspace.
+8 Chloe dislikes the peach
+9 Carter moved the lettuce to the green_bucket.
+10 Carter exited the crawlspace.
+11 Jacob entered the TV_room.
+12 Where will Jacob look for the lettuce?	red_pantry	1
+1 Avery entered the lounge.
+2 Mia entered the lounge.
+3 Hannah dislikes the lemon
+4 Hannah entered the hallway.
+5 The broccoli is in the red_bathtub.
+6 Hannah exited the hallway.
+7 Mia exited the lounge.
+8 Avery moved the broccoli to the green_pantry.
+9 Avery exited the lounge.
+10 Mia entered the hallway.
+11 Where will Mia look for the broccoli?	red_bathtub	1
+1 Lucas entered the lounge.
+2 Mia entered the lounge.
+3 The apple is in the green_box.
+4 Evelyn entered the lounge.
+5 Mia exited the lounge.
+6 Lucas moved the apple to the blue_envelope.
+7 Lucas exited the lounge.
+8 Mia entered the front_yard.
+9 Where will Mia look for the apple?	green_box	1
